@@ -6,6 +6,7 @@ Esta atualização traz melhorias importantes no overlay, no histórico de parti
 
 ### Novidades
 
+- Canal de atualizações migrado para um manifesto assinado publicado no GitHub.
 - FPS real do eFootball no overlay, sem depender de RTSS ou MSI Afterburner.
 - Compatibilidade da medição de FPS com Steam e Xbox PC.
 - Histórico persistente ampliado de 20 para 200 partidas.

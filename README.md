@@ -23,6 +23,12 @@ Cada versão inclui:
 
 Compatível com eFootball para Steam e Xbox PC.
 
+## Atualizações
+
+O aplicativo consulta o manifesto assinado `update_manifest.json` deste repositório. Os pacotes continuam
+sendo baixados exclusivamente pelas Releases e só são aceitos depois da validação de assinatura, tamanho e
+SHA-256.
+
 ## Integridade do download
 
 No PowerShell, execute:

@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "product": "efootball-toolkit-pro",
+  "channel": "stable",
+  "version": "1.6",
+  "published_at": "2026-07-19T23:08:42Z",
+  "download_url": "https://github.com/ArleyLevy/eFootballToolkitPRO/releases/download/v1.6/eFootball-Toolkit-PRO-v1.6.zip",
+  "package_format": "zip-onedir",
+  "sha256": "BE04E9280FF0124FCAE40F535807A7EEFCA54FD889D2D42D056C0C562098F2F9",
+  "size_bytes": 54237068,
+  "notes": "Build de transição do canal de atualizações para o GitHub, mantendo a versão 1.6.",
+  "mandatory": false,
+  "signature": "+BKJ7YJ7C2MiL5870b7XQuoHdyaGPKayPjcQBo5TSb6iU3DlJ+9DMZ43ETNi8UYSRVIjb61pLVtkFdyy0wk+Cg=="
+}
