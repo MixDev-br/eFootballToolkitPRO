@@ -3,12 +3,12 @@
   "product": "efootball-toolkit-pro",
   "channel": "stable",
   "version": "1.7",
-  "published_at": "2026-07-20T02:07:23Z",
+  "published_at": "2026-07-20T02:22:06Z",
   "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v1.7/eFootball-Toolkit-PRO-v1.7.zip",
   "package_format": "zip-onedir",
-  "sha256": "CC41509C973E1686FED5CB0C2E9A7BCC20010A0957D3F6A531E7151D0E5D2E00",
-  "size_bytes": 54841169,
+  "sha256": "CBFD44EFAE1B9E8AA3F446168410C9776D21931350375BCF2D7FE404DC12806D",
+  "size_bytes": 54841789,
   "notes": "eFootball Toolkit PRO 1.7 — Central de servidores e modos personalizados\nCentral de servidores\nO clique em Teste de Servidores abre instantaneamente uma janela própria.\nServidores exibidos em lista compacta com colunas para endereço, ping, origem\nda medição, estado do filtro e ações.\nBusca e ordenação por cabeçalho.\nResumo de servidores permitidos, bloqueados e ping médio.\nAções rápidas para testar todos, liberar todos e bloquear os servidores que\nnão responderam ao último teste.\nAdição, edição, exclusão, bloqueio e uso exclusivo continuam disponíveis por\nservidor, sem ocupar o espaço da aba principal.\nModos personalizados\nBotão + na extremidade da linha MODO ATUAL.\nCriação, edição, duplicação e exclusão de até 24 modos personalizados.\nCada modo pode ativar qualquer combinação das regras disponíveis.\nRegras padrão, regras vinculadas do Firewall do Windows e regras criadas no\nEditor de Firewall podem ser reutilizadas no mesmo perfil.\nImportação do Firewall do Windows disponível dentro do criador de modos sem\ncongelar a interface.\nAplicação atômica: o perfil anterior é substituído pelo novo de uma vez.\nModo ativo e seleção de regras persistidos em armazenamento protegido.\nCorreções\nCorrigida a falha que impedia Vincular Regras Existentes de abrir quando\nhavia uma regra personalizada criada no app.\nRegras personalizadas agora aparecem claramente como REGRA CRIADA NO APP.\nA janela de vínculos ganhou rolagem e suporta listas extensas.\nRestauração de sessão compatível com modos que combinam regras P2P, TCP e\nCOOP.\nSegurança e compatibilidade\nVersão mantida no formato dinâmico onedir.\nProteção seletiva PyArmor aplicada a 30 módulos compatíveis.\nManifesto de licenças permanece no Pastebin oficial.\nManifesto de atualizações permanece assinado e distribuído pelo GitHub.",
   "mandatory": true,
-  "signature": "SVJq/hBQl58o7ikbbNBOsKo1fGDGKqX7k8NN+Yr+khGFoY3YFb+ZwYnpIGLx+zXfkDY7OCl7lhCP3mcBHhbWCQ=="
+  "signature": "bIFUF+BTVT9cZC1LJpjp3cw3iUab/VbugK0n6sZOlVDiwPoW0N5PZ6vz2TjrgxDWOucMN8AOOLkepOd/ZeHxCA=="
 }
