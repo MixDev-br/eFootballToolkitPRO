@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arleylevy.github.io/eFootballToolkitPRO/sitemap.xml
+Sitemap: https://mixdev-br.github.io/eFootballToolkitPRO/sitemap.xml
