@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "efootball-toolkit-pro",
   "channel": "stable",
-  "version": "1.9",
-  "published_at": "2026-07-21T18:30:37Z",
-  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v1.9/eFootball-Toolkit-PRO-v1.9.zip",
+  "version": "2.0.0",
+  "published_at": "2026-07-28T23:17:41Z",
+  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.0.0/eFootball-Toolkit-PRO-v2.0.0.zip",
   "package_format": "zip-onedir",
-  "sha256": "7A659F73B063D0DA534E9348377C8179DCBECDDE9E74379D59829AA05A0D07F3",
-  "size_bytes": 54878256,
-  "notes": "eFootball Toolkit PRO 1.9\nBandeira do país exibida ao lado da região no overlay.\nRegras internas do Toolkit não são mais expostas no Editor de Firewall; somente regras do Windows e regras criadas pelo usuário permanecem editáveis.\nCom o eFootball Steam ou Xbox PC aberto, X1, COOP e a Central de Modos ficam bloqueados; NORMAL permanece disponível para liberar os filtros.\nO escopo Somente eFootball agora reconhece os executáveis e o Package SID da versão Xbox PC, sem aplicar filtros ao sistema inteiro.\nBuild protegida com PyArmor e empacotada com PyInstaller.\nExtraia todo o conteúdo do ZIP antes de executar. Inicie o aplicativo como Administrador.",
+  "sha256": "9B5F60EF9126A98B1222E232AF0A46B197780E1729E38A32F331EDA173168D87",
+  "size_bytes": 16353318,
+  "notes": "eFootball Toolkit PRO 2.0\nInterface totalmente renovada e navegação mais clara.\nMonitor de partidas aprimorado para IPv4, IPv6 e reconexões.\nOverlay redesenhado, redimensionável e com informações ao vivo.\nNova Central de Servidores, seleção por países e diagnóstico de controles.\nHistórico de partidas e adversários mais organizado.\nDisponível em português, inglês e espanhol.\nInstale o Npcap pelo site oficial, extraia todo o ZIP e execute como Administrador.",
   "mandatory": true,
-  "signature": "y6cnPjm58pKbYJEZGKJRR9MQwS+EzHOC3VAoU1jTNVibXCOtkyL0761ScMsdRnrj62YszL6keYux7slryWByCw=="
+  "signature": "55XWk4tIUzQWG/zUrscIOf3RE9xJmsFkDde6siOZyavlXNoCBoya4uUy030C8UrZYctnm3xz/ecJO9/4MxQGAw=="
 }

@@ -1,5 +1,28 @@
 # Histórico de versões
 
+## eFootball Toolkit PRO 2.0 — 28/07/2026
+
+A versão 2.0 apresenta uma interface totalmente renovada e reúne monitor,
+overlay, servidores, ferramentas de rede e diagnóstico em uma experiência mais
+clara e organizada.
+
+### Novidades e melhorias
+
+- Nova interface com navegação reorganizada.
+- Overlay redesenhado, redimensionável e com informações ao vivo.
+- Monitor de partidas aprimorado para IPv4, IPv6 e reconexões.
+- Central de Servidores com seleção por países e testes de ping.
+- Histórico de partidas, adversários e reencontros mais organizado.
+- Diagnóstico de controles Xbox e PlayStation.
+- Suporte a português, inglês e espanhol.
+- Atualizações automáticas com suporte a versões obrigatórias.
+
+### Instalação
+
+- Instale o [Npcap pelo site oficial](https://npcap.com/#download).
+- Extraia todo o conteúdo do ZIP.
+- Execute o Toolkit como administrador.
+
 ## eFootball Toolkit PRO 1.6 — 19/07/2026
 
 Esta atualização traz melhorias importantes no overlay, no histórico de partidas, nos filtros temporários e no desempenho geral.
