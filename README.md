@@ -6,12 +6,15 @@ Este repositório contém somente os pacotes prontos para uso. O código-fonte d
 
 ## Download
 
-Baixe sempre a versão mais recente pela página de [Releases](https://github.com/ArleyLevy/eFootballToolkitPRO/releases/latest).
+Baixe sempre a versão mais recente pela página de [Releases](https://github.com/MixDev-br/eFootballToolkitPRO/releases/latest).
+
+- [Baixar eFootball Toolkit PRO 2.0.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.0.1/eFootball-Toolkit-PRO-v2.0.1.zip)
+- [Baixar eFootball Toolkit TRIAL 2.0.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/trial-v2.0.1/eFootball-Toolkit-TRIAL-v2.0.1.zip)
 
 Cada versão inclui:
 
 - o pacote dinâmico `.zip` do aplicativo;
-- um arquivo `.sha256.txt` para conferência da integridade;
+- um arquivo `.sha256` para conferência da integridade;
 - as notas da versão.
 
 ## Instalação
@@ -34,11 +37,12 @@ SHA-256.
 No PowerShell, execute:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 .\eFootball-Toolkit-PRO-v1.6.zip
+Get-FileHash -Algorithm SHA256 .\eFootball-Toolkit-PRO-v2.0.1.zip
 ```
 
 Compare o resultado com o arquivo `.sha256.txt` publicado na mesma Release.
 
 ## Suporte
 
-Em caso de problema, informe a versão do Toolkit, a plataforma do jogo e envie os registros apresentados pelo aplicativo.
+Em caso de problema, informe a versão do Toolkit, a plataforma do jogo e envie os registros apresentados pelo aplicativo para
+[efootballtoolkitpro.suporte@gmail.com](mailto:efootballtoolkitpro.suporte@gmail.com).

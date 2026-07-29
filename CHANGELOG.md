@@ -1,5 +1,23 @@
 # Histórico de versões
 
+## eFootball Toolkit PRO 2.0.1 — 29/07/2026
+
+Atualização focada em estabilidade, automação e precisão das informações.
+
+### Correções
+
+- Corrigido o overlay que não abria quando o monitor iniciava automaticamente com o aplicativo.
+- Corrigido o cálculo do ping médio ao testar somente um país na Central de Servidores.
+- Aplicativo e overlay agora encerram juntos com mais rapidez.
+- Abertura do overlay mais confiável durante a inicialização.
+- Proteção de reencontros refinada para maior estabilidade.
+
+### Melhorias
+
+- Novos servidores podem ser reconhecidos depois de uma partida confirmada.
+- Inicialização automática do monitor agora segue o mesmo fluxo do acionamento manual.
+- Novo teste de regressão garante a abertura automática do overlay mesmo antes de o eFootball ser iniciado.
+
 ## eFootball Toolkit PRO 2.0 — 28/07/2026
 
 A versão 2.0 apresenta uma interface totalmente renovada e reúne monitor,
