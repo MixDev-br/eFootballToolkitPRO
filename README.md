@@ -19,7 +19,7 @@
   <img alt="Idiomas disponíveis" src="https://img.shields.io/badge/idiomas-PT%20%7C%20EN%20%7C%20ES-a855f7">
 </p>
 
-> Este é o canal oficial de distribuição do eFootball Toolkit PRO. O repositório contém os pacotes prontos para uso, o manifesto de atualização e a documentação pública. O código-fonte do aplicativo não é distribuído aqui.
+> Este é o canal oficial de distribuição do eFootball Toolkit PRO. O repositório contém os pacotes prontos para uso, o manifesto de atualização e a documentação pública.
 
 ## Visão geral
 
