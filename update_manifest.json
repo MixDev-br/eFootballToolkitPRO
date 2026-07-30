@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "efootball-toolkit-pro",
   "channel": "stable",
-  "version": "2.0.1",
-  "published_at": "2026-07-29T20:03:21Z",
-  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.0.1/eFootball-Toolkit-PRO-v2.0.1.zip",
+  "version": "2.0.2",
+  "published_at": "2026-07-30T23:30:48Z",
+  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.0.2/eFootball-Toolkit-PRO-v2.0.2.zip",
   "package_format": "zip-onedir",
-  "sha256": "EF9A7BBB8325A2E4A1229AC056BE46CE13AD747B7165FBD38571291F25B85C61",
-  "size_bytes": 16355356,
-  "notes": "eFootball Toolkit PRO 2.0.1\nCorrigido o overlay que não abria quando o monitor iniciava automaticamente com o aplicativo.\nCorrigido o ping médio ao testar somente um país na Central de Servidores.\nAplicativo e overlay agora encerram juntos com mais rapidez.\nNovos servidores IP2 podem ser reconhecidos após uma partida confirmada.\nMelhorias de estabilidade na inicialização do overlay e na proteção de reencontros.\nInstale o Npcap pelo site oficial, extraia todo o ZIP e execute como Administrador.",
+  "sha256": "1C8F264DDB957B5CB163F6331B65C696264789C197A6CC80CF209BA639FE9FF9",
+  "size_bytes": 16358582,
+  "notes": "eFootball Toolkit PRO 2.0.2\nA medição de ping em partidas PSP agora acompanha automaticamente a consolidação ou troca do endpoint, sem exigir reiniciar o monitor.\nNova opção para ativar o seletor regional automaticamente ao abrir o aplicativo.\nO aviso de reencontro no overlay ganhou destaque vermelho, pulsação e alerta sonoro reforçado.\nA Central de Servidores e o seletor regional ficaram mais responsivos com o monitor ativo.\nInstale o Npcap pelo site oficial, extraia todo o ZIP e execute como Administrador.",
   "mandatory": true,
-  "signature": "M0Sk4FTItbc/fx7I34YwV59XeCKkkKgvzX821uWZMa5uPyQvawH7w08ojc9w6xckXfO05817aydhq6g9Pug6AQ=="
+  "signature": "M1h1u8UA9xbxvDDOTLDbmnjX+7s4RFa8DnCdz1cCSXwwbD8QQVll8Ui7587X7zYe1lRR7IAXp9gABWxT48hWBA=="
 }
