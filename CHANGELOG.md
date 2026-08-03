@@ -1,5 +1,21 @@
 # Histórico de versões
 
+## eFootball Toolkit PRO 2.0.3 — 03/08/2026
+
+Atualização obrigatória focada em compatibilidade, medição e estabilidade das partidas.
+
+### Correções
+
+- Regras locais do Firewall do Windows voltaram a poder ser vinculadas aos modos personalizados.
+- Partidas LAN agora exibem corretamente a rede local no monitor, overlay e histórico.
+- A medição de ping em partidas PSP tenta novamente quando o servidor descarta a primeira resposta.
+- O encerramento de partidas PSP ficou mais confiável.
+
+### Melhorias
+
+- Alertas sonoros distintos para partidas PSP, P2P e LAN.
+- Prévia dos alertas disponível nas configurações.
+
 ## eFootball Toolkit PRO 2.0.1 — 29/07/2026
 
 Atualização focada em estabilidade, automação e precisão das informações.
