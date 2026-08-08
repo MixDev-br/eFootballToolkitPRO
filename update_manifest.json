@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "efootball-toolkit-pro",
   "channel": "stable",
-  "version": "2.0.3",
-  "published_at": "2026-08-03T18:45:07Z",
-  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.0.3/eFootball-Toolkit-PRO-v2.0.3.zip",
+  "version": "2.0.4",
+  "published_at": "2026-08-08T18:30:29Z",
+  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.0.4/eFootball-Toolkit-PRO-v2.0.4.zip",
   "package_format": "zip-onedir",
-  "sha256": "C73414B80C7BBDE247A761C5B0C7C3FE11891BF188B7393CD36B718A1F9B6070",
-  "size_bytes": 16375147,
-  "notes": "eFootball Toolkit PRO 2.0.3\n\n- Regras locais do Firewall do Windows agora podem ser vinculadas aos modos personalizados.\n- Partidas LAN exibem corretamente REDE LOCAL no monitor, overlay e historico.\n- A medicao de ping em partidas PSP tenta novamente quando o servidor descarta a primeira resposta.\n- Alertas sonoros distintos para partidas PSP, P2P e LAN, com previa nas configuracoes.\n- Encerramento de partidas PSP mais confiavel.\n\nExtraia todo o ZIP, instale o Npcap pelo site oficial e execute o Toolkit como administrador.",
+  "sha256": "654E69728BA159697B140C467844BF26F3F1D204F8B14B8D98F648DE36C43382",
+  "size_bytes": 16448012,
+  "notes": "eFootball Toolkit PRO 2.0.4\n\n- Identificação do adversário em partidas PSP mais confiável, inclusive em conexões com NAT.\n- Sessões P2P, LAN e PSP mais estáveis e resistentes a encerramentos incorretos.\n- Novo diagnóstico de conectividade IPv6 em Rede e Overlay.\n- Nova opção para controlar tentativas PSP fora da faixa dedicada.\n- Configurações reorganizadas, com sons personalizados e intervalo de atualização do ping.\n- Localização LAN e controle geral dos alertas sonoros corrigidos.\n\nExtraia todo o ZIP, instale o Npcap pelo site oficial e execute o Toolkit como administrador.",
   "mandatory": true,
-  "signature": "lNVcZw2UV4Tqeyb4c7hJYEQCxemIlAaDKBfDPeLXHwouKB/vW8NbOb4kQWpwzoQPEwxolWZBGdtrVEmVSvhsAQ=="
+  "signature": "CShFPFT7JN448HFm13abBaSBI1gEZzzY0gMxwbgNssxoAQqBBH2pThaGtLEJM7krg9qzIiZ6bMHpvuVvbmXoBA=="
 }
