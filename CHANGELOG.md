@@ -1,5 +1,25 @@
 # Histórico de versões
 
+## eFootball Toolkit PRO 2.1.0 — 24/08/2026
+
+Atualização obrigatória que amplia o Toolkit para PC e consoles por meio do OpenWrt.
+
+### Novidades
+
+- Integração guiada com roteadores OpenWrt para monitorar PC, PlayStation e Xbox.
+- Aplicativo Mobile com monitor de partidas e modos X1 e COOP.
+- Avaliação gratuita do Mobile por 30 dias durante a etapa inicial.
+- O Windows agora lista todas as placas de rede disponíveis.
+- O botão do eFootball informa a versão do DirectX detectada durante o jogo.
+- Configuração do OpenWrt simplificada e diagnóstico de conectividade IPv6.
+
+### Correções e melhorias
+
+- Encerramento das partidas e captura pelo roteador mais confiáveis.
+- Overlay com posição e tamanhos personalizados preservados.
+- Interface, mensagens e fluxo de configuração revisados para distribuição.
+- Modos X1 e COOP do Mobile ajustados para o uso pelo roteador.
+
 ## eFootball Toolkit PRO 2.0.3 — 03/08/2026
 
 Atualização obrigatória focada em compatibilidade, medição e estabilidade das partidas.

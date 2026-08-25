@@ -1,7 +1,7 @@
 # eFootball Toolkit PRO
 
 <p align="center">
-  <strong>Monitoramento de partidas, overlay e ferramentas de rede para eFootball no Windows.</strong>
+  <strong>Monitoramento de partidas, overlay e ferramentas de rede para eFootball no Windows e consoles.</strong>
 </p>
 
 <p align="center">
@@ -9,11 +9,13 @@
   ·
   <a href="https://github.com/MixDev-br/eFootballToolkitPRO/releases/latest"><strong>Baixar versão PRO</strong></a>
   ·
-  <a href="https://github.com/MixDev-br/eFootballToolkitPRO/releases/tag/trial-v2.0.3"><strong>Testar grátis por 5 dias</strong></a>
+  <a href="https://github.com/MixDev-br/eFootballToolkitPRO/releases/tag/trial-v2.1.0"><strong>Testar no Windows por 5 dias</strong></a>
+  ·
+  <a href="OPENWRT_MOBILE_GUIDE.md"><strong>Guia Mobile e OpenWrt</strong></a>
 </p>
 
 <p align="center">
-  <img alt="Versão 2.0.3" src="https://img.shields.io/badge/versão-2.0.3-22d3ee">
+  <img alt="Versão 2.1.0" src="https://img.shields.io/badge/versão-2.1.0-22d3ee">
   <img alt="Windows 10 e 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-2563eb">
   <img alt="Compatível com Steam e Xbox PC" src="https://img.shields.io/badge/eFootball-Steam%20%7C%20Xbox%20PC-10b981">
   <img alt="Idiomas disponíveis" src="https://img.shields.io/badge/idiomas-PT%20%7C%20EN%20%7C%20ES-a855f7">
@@ -33,6 +35,8 @@ O Toolkit reúne informações que normalmente ficam espalhadas ou escondidas du
 - histórico de partidas, adversários e reencontros;
 - diagnóstico de controles Xbox e PlayStation;
 - suporte ao eFootball da **Steam** e do **Xbox PC**.
+- monitoramento de PC, PlayStation e Xbox pelo **OpenWrt**;
+- aplicativo Mobile para acompanhar partidas e controlar os modos X1 e COOP.
 
 ## Conheça o aplicativo
 
@@ -180,8 +184,10 @@ O código do dispositivo foi ocultado na imagem pública por segurança.
 
 ## Download
 
-- [Baixar eFootball Toolkit PRO 2.0.3](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.0.3/eFootball-Toolkit-PRO-v2.0.3.zip)
-- [Baixar eFootball Toolkit TRIAL 2.0.3](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/trial-v2.0.3/eFootball-Toolkit-TRIAL-v2.0.3.zip)
+- [Baixar eFootball Toolkit PRO 2.1.0](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.0/eFootball-Toolkit-PRO-v2.1.0.zip)
+- [Baixar eFootball Toolkit TRIAL 2.1.0](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/trial-v2.1.0/eFootball-Toolkit-TRIAL-v2.1.0.zip)
+- [Baixar eFootball Toolkit Mobile 2.1.0](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.0/eFootball-Toolkit-Mobile-v2.1.0.apk)
+- [Configurar o Mobile e o OpenWrt](OPENWRT_MOBILE_GUIDE.md)
 - [Consultar todas as versões](https://github.com/MixDev-br/eFootballToolkitPRO/releases)
 
 Cada versão inclui o pacote `.zip`, um arquivo `.sha256` para conferência de integridade e as notas da atualização.
@@ -212,7 +218,7 @@ O aplicativo consulta o manifesto assinado `update_manifest.json` deste reposit�
 Para conferir manualmente um download no PowerShell:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 .\eFootball-Toolkit-PRO-v2.0.3.zip
+Get-FileHash -Algorithm SHA256 .\eFootball-Toolkit-PRO-v2.1.0.zip
 ```
 
 Compare o resultado com o arquivo `.sha256.txt` publicado na mesma Release.

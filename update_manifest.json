@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "efootball-toolkit-pro",
   "channel": "stable",
-  "version": "2.0.4",
-  "published_at": "2026-08-08T18:30:29Z",
-  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.0.4/eFootball-Toolkit-PRO-v2.0.4.zip",
+  "version": "2.1.0",
+  "published_at": "2026-08-25T00:19:48Z",
+  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.0/eFootball-Toolkit-PRO-v2.1.0.zip",
   "package_format": "zip-onedir",
-  "sha256": "654E69728BA159697B140C467844BF26F3F1D204F8B14B8D98F648DE36C43382",
-  "size_bytes": 16448012,
-  "notes": "eFootball Toolkit PRO 2.0.4\n\n- Identificação do adversário em partidas PSP mais confiável, inclusive em conexões com NAT.\n- Sessões P2P, LAN e PSP mais estáveis e resistentes a encerramentos incorretos.\n- Novo diagnóstico de conectividade IPv6 em Rede e Overlay.\n- Nova opção para controlar tentativas PSP fora da faixa dedicada.\n- Configurações reorganizadas, com sons personalizados e intervalo de atualização do ping.\n- Localização LAN e controle geral dos alertas sonoros corrigidos.\n\nExtraia todo o ZIP, instale o Npcap pelo site oficial e execute o Toolkit como administrador.",
+  "sha256": "90B13040FDB73EB1A7711B221A970320862B28233A21FB376B75E87E4556DFB8",
+  "size_bytes": 17078785,
+  "notes": "eFootball Toolkit PRO 2.1.0\n\n- Integração com OpenWrt para monitorar e aplicar modos no PC e nos consoles.\n- Aplicativo Mobile com monitor de partidas e modos X1 e COOP.\n- Todas as placas de rede agora aparecem na seleção do Windows.\n- O botão do jogo informa a versão do DirectX detectada.\n- Configuração do OpenWrt simplificada e guiada.\n- Melhorias de estabilidade no encerramento das partidas e na captura.\n- Overlay mais personalizável, com posição e tamanhos preservados.\n\nExtraia todo o ZIP. Para captura local no Windows, instale o Npcap pelo site oficial. Para PC ou console via roteador, consulte o guia OpenWrt.",
   "mandatory": true,
-  "signature": "CShFPFT7JN448HFm13abBaSBI1gEZzzY0gMxwbgNssxoAQqBBH2pThaGtLEJM7krg9qzIiZ6bMHpvuVvbmXoBA=="
+  "signature": "chpeW5ZLKCuX8i8vOVjeWGPBwUdbOqemND2CKa7X81TDTH+xuLt0n/75znMcvXLTbtYl0GDNMSmVP/f+99cPBw=="
 }
