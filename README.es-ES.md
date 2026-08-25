@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="README.md">Português</a> · <a href="README.en-US.md">English</a> · <strong>Español</strong>
+  <a href="README.md"><img src="docs/images/language-pt-br.svg" alt="Português (Brasil)" height="42"></a>
+  <a href="README.en-US.md"><img src="docs/images/language-en-us.svg" alt="English (US)" height="42"></a>
+  <a href="README.es-ES.md"><img src="docs/images/language-es-es.svg" alt="Español (España)" height="42"></a>
 </p>
 
 <p align="center">
