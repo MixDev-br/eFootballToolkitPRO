@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "efootball-toolkit-pro",
   "channel": "stable",
-  "version": "2.1.0",
-  "published_at": "2026-08-25T00:31:47Z",
-  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.0/eFootball-Toolkit-PRO-v2.1.0.zip",
+  "version": "2.1.1",
+  "published_at": "2026-08-25T21:41:12Z",
+  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.1/eFootball-Toolkit-PRO-v2.1.1.zip",
   "package_format": "zip-onedir",
-  "sha256": "37BB35430EE335B994BB19F4A33688842434574C100905F43EDFFACF3DEEA2BD",
-  "size_bytes": 17078702,
-  "notes": "eFootball Toolkit PRO 2.1.0\n\n- Integração com OpenWrt para monitorar e aplicar modos no PC e nos consoles.\n- Aplicativo Mobile com monitor de partidas e modos X1 e COOP.\n- Todas as placas de rede agora aparecem na seleção do Windows.\n- O botão do jogo informa a versão do DirectX detectada.\n- Configuração do OpenWrt simplificada e guiada.\n- Melhorias de estabilidade no encerramento das partidas e na captura.\n- Overlay mais personalizável, com posição e tamanhos preservados.\n\nExtraia todo o ZIP. Para captura local no Windows, instale o Npcap pelo site oficial. Para PC ou console via roteador, consulte o guia OpenWrt.",
+  "sha256": "F131107D8DEB2869E03C4FC740EC681A2658D1831061754206A1E920F4F6D9E9",
+  "size_bytes": 17126006,
+  "notes": "## eFootball Toolkit PRO 2.1.1\n\n### Novidades\n\n- Central de notificações com avisos oficiais dentro do aplicativo.\n- Novo modo P2P Experimental com uma combinação alternativa de proteções.\n- Aplicativo Mobile ampliado com adversários, histórico de partidas e novos modos pelo OpenWrt.\n- Regras Force P2P separadas para facilitar testes e combinações personalizadas.\n\n### Melhorias\n\n- Reconexões rápidas da mesma partida não aumentam mais o contador de reencontros.\n- Monitoramento e aplicação de regras via OpenWrt mais estáveis.\n- Área de detalhes mais clara para servidor e adversário.\n- Ajustes gerais de estabilidade, interface e mensagens.\n\nConsulte o [guia do Mobile e OpenWrt](https://github.com/MixDev-br/eFootballToolkitPRO/blob/main/OPENWRT_MOBILE_GUIDE.md) antes de configurar o roteador.",
   "mandatory": true,
-  "signature": "9swzsxz0edP7DDXSFZJJqUCA5g9zi9ZLZt0YrGFGQ4bRG1jfm0BJJQxQAskXsYqwxjL/JYshlM2oSPLJYfVsBA=="
+  "signature": "W8c+CXzuwlCQp+zgoXuD69tVqnzkTVqtcM6UD4plgXcO3mnbnumuGTiN9Gjl7lqm/Cn/640AYkhTp4ufeU8XCg=="
 }

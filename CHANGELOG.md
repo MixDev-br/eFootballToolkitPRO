@@ -1,5 +1,23 @@
 # Histórico de versões
 
+## eFootball Toolkit PRO 2.1.1 — 25/08/2026
+
+Atualização obrigatória com novos recursos de comunicação, melhorias no monitor e expansão do aplicativo Mobile.
+
+### Novidades
+
+- Central de notificações no Windows, com avisos oficiais organizados por prioridade.
+- Novo modo P2P Experimental para testar uma combinação alternativa de proteções.
+- Aplicativo Mobile com central de adversários, histórico de partidas e novos modos pelo OpenWrt.
+- Regras Force P2P separadas em portas, DNS e servidores, permitindo combinações personalizadas.
+
+### Correções e melhorias
+
+- Reconexões rápidas da mesma partida deixam de aumentar incorretamente o contador de reencontros.
+- Monitor e regras via OpenWrt ficaram mais estáveis no Windows e no Android.
+- Informações de servidor e adversário foram simplificadas na área de detalhes.
+- Interface e mensagens revisadas para a distribuição pública.
+
 ## eFootball Toolkit PRO 2.1.0 — 24/08/2026
 
 Atualização obrigatória que amplia o Toolkit para PC e consoles por meio do OpenWrt.
