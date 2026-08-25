@@ -3,12 +3,12 @@
   "product": "efootball-toolkit-pro",
   "channel": "stable",
   "version": "2.1.0",
-  "published_at": "2026-08-25T00:19:48Z",
+  "published_at": "2026-08-25T00:31:47Z",
   "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.0/eFootball-Toolkit-PRO-v2.1.0.zip",
   "package_format": "zip-onedir",
-  "sha256": "90B13040FDB73EB1A7711B221A970320862B28233A21FB376B75E87E4556DFB8",
-  "size_bytes": 17078785,
+  "sha256": "37BB35430EE335B994BB19F4A33688842434574C100905F43EDFFACF3DEEA2BD",
+  "size_bytes": 17078702,
   "notes": "eFootball Toolkit PRO 2.1.0\n\n- Integração com OpenWrt para monitorar e aplicar modos no PC e nos consoles.\n- Aplicativo Mobile com monitor de partidas e modos X1 e COOP.\n- Todas as placas de rede agora aparecem na seleção do Windows.\n- O botão do jogo informa a versão do DirectX detectada.\n- Configuração do OpenWrt simplificada e guiada.\n- Melhorias de estabilidade no encerramento das partidas e na captura.\n- Overlay mais personalizável, com posição e tamanhos preservados.\n\nExtraia todo o ZIP. Para captura local no Windows, instale o Npcap pelo site oficial. Para PC ou console via roteador, consulte o guia OpenWrt.",
   "mandatory": true,
-  "signature": "chpeW5ZLKCuX8i8vOVjeWGPBwUdbOqemND2CKa7X81TDTH+xuLt0n/75znMcvXLTbtYl0GDNMSmVP/f+99cPBw=="
+  "signature": "9swzsxz0edP7DDXSFZJJqUCA5g9zi9ZLZt0YrGFGQ4bRG1jfm0BJJQxQAskXsYqwxjL/JYshlM2oSPLJYfVsBA=="
 }
