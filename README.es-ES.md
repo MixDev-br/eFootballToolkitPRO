@@ -15,13 +15,13 @@
   ·
   <a href="https://github.com/MixDev-br/eFootballToolkitPRO/releases/latest"><strong>Descargar versión PRO</strong></a>
   ·
-  <a href="https://github.com/MixDev-br/eFootballToolkitPRO/releases/tag/trial-v2.1.1"><strong>Probar en Windows durante 5 días</strong></a>
+  <a href="https://github.com/MixDev-br/eFootballToolkitPRO/releases/tag/trial-v2.1.2"><strong>Probar en Windows durante 5 días</strong></a>
   ·
   <a href="OPENWRT_MOBILE_GUIDE.md"><strong>Guía Mobile y OpenWrt (portugués)</strong></a>
 </p>
 
 <p align="center">
-  <img alt="Versión 2.1.1" src="https://img.shields.io/badge/versión-2.1.1-22d3ee">
+  <img alt="Versión 2.1.2" src="https://img.shields.io/badge/versión-2.1.2-22d3ee">
   <img alt="Windows 10 y 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-2563eb">
   <img alt="Compatible con Steam y Xbox PC" src="https://img.shields.io/badge/eFootball-Steam%20%7C%20Xbox%20PC-10b981">
   <img alt="Idiomas disponibles" src="https://img.shields.io/badge/idiomas-PT%20%7C%20EN%20%7C%20ES-a855f7">
@@ -190,9 +190,9 @@ El código del dispositivo se ocultó en la captura pública por seguridad.
 
 ## Descargas
 
-- [Descargar eFootball Toolkit PRO 2.1.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.1/eFootball-Toolkit-PRO-v2.1.1.zip)
-- [Descargar eFootball Toolkit TRIAL 2.1.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/trial-v2.1.1/eFootball-Toolkit-TRIAL-v2.1.1.zip)
-- [Descargar eFootball Toolkit Mobile 2.1.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.1/eFootball-Toolkit-Mobile-v2.1.1.apk)
+- [Descargar eFootball Toolkit PRO 2.1.2](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.2/eFootball-Toolkit-PRO-v2.1.2.zip)
+- [Descargar eFootball Toolkit TRIAL 2.1.2](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/trial-v2.1.2/eFootball-Toolkit-TRIAL-v2.1.2.zip)
+- [Descargar eFootball Toolkit Mobile 2.1.2](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.2/eFootball-Toolkit-Mobile-v2.1.2.apk)
 - [Configurar Mobile y OpenWrt (guía en portugués)](OPENWRT_MOBILE_GUIDE.md)
 - [Consultar todas las versiones](https://github.com/MixDev-br/eFootballToolkitPRO/releases)
 
@@ -224,7 +224,7 @@ La aplicación consulta el manifiesto firmado `update_manifest.json` de este rep
 Para comprobar manualmente una descarga en PowerShell:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 .\eFootball-Toolkit-PRO-v2.1.1.zip
+Get-FileHash -Algorithm SHA256 .\eFootball-Toolkit-PRO-v2.1.2.zip
 ```
 
 Compara el resultado con el archivo `.sha256.txt` publicado en la misma Release.

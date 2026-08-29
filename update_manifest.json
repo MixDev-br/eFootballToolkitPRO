@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "efootball-toolkit-pro",
   "channel": "stable",
-  "version": "2.1.1",
-  "published_at": "2026-08-25T21:41:12Z",
-  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.1/eFootball-Toolkit-PRO-v2.1.1.zip",
+  "version": "2.1.2",
+  "published_at": "2026-08-29T13:37:35Z",
+  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.2/eFootball-Toolkit-PRO-v2.1.2.zip",
   "package_format": "zip-onedir",
-  "sha256": "F131107D8DEB2869E03C4FC740EC681A2658D1831061754206A1E920F4F6D9E9",
-  "size_bytes": 17126006,
-  "notes": "## eFootball Toolkit PRO 2.1.1\n\n### Novidades\n\n- Central de notificações com avisos oficiais dentro do aplicativo.\n- Novo modo P2P Experimental com uma combinação alternativa de proteções.\n- Aplicativo Mobile ampliado com adversários, histórico de partidas e novos modos pelo OpenWrt.\n- Regras Force P2P separadas para facilitar testes e combinações personalizadas.\n\n### Melhorias\n\n- Reconexões rápidas da mesma partida não aumentam mais o contador de reencontros.\n- Monitoramento e aplicação de regras via OpenWrt mais estáveis.\n- Área de detalhes mais clara para servidor e adversário.\n- Ajustes gerais de estabilidade, interface e mensagens.\n\nConsulte o [guia do Mobile e OpenWrt](https://github.com/MixDev-br/eFootballToolkitPRO/blob/main/OPENWRT_MOBILE_GUIDE.md) antes de configurar o roteador.",
+  "sha256": "BE8BDBAB84A9D9B8FFEC5E56CEBD8DBFCE3150340CA8EA797F23B421E6CF35DC",
+  "size_bytes": 17149059,
+  "notes": "## eFootball Toolkit PRO 2.1.2\n\n### Novidades\n\n- O modo P2P Experimental permite escolher o uso do bloqueio DNS e alterar essa opção pelo clique direito.\n- Nova tela de abertura mais limpa e moderna.\n- O site agora orienta sobre a instalação do Npcap antes dos downloads para Windows.\n\n### Correções e melhorias\n\n- O último modo de jogo e o último escopo do firewall escolhidos ficam salvos entre as execuções.\n- Reconexões rápidas da mesma partida foram refinadas para evitar reencontros falsos.\n- Corrigidas travadas na interface ao alternar o P2P Experimental e o escopo das regras.\n- Melhorias gerais de estabilidade, mensagens e acabamento visual.",
   "mandatory": true,
-  "signature": "W8c+CXzuwlCQp+zgoXuD69tVqnzkTVqtcM6UD4plgXcO3mnbnumuGTiN9Gjl7lqm/Cn/640AYkhTp4ufeU8XCg=="
+  "signature": "SfyMUPXYB6he9mb8yK3bIBEQbAbo9b6IQNOCQ20smv0WhXICi6RkaVnJoO9VJBPOcFclVv1RTAtCXIxl+yRECw=="
 }

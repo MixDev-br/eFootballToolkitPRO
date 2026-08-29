@@ -1,5 +1,22 @@
 # Histórico de versões
 
+## eFootball Toolkit PRO 2.1.2 — 29/08/2026
+
+Atualização obrigatória focada em estabilidade, personalização e continuidade das preferências do jogador.
+
+### Novidades
+
+- O modo P2P Experimental permite escolher o uso do bloqueio DNS e alterar essa opção pelo clique direito.
+- Nova tela de abertura mais limpa e moderna.
+- O site agora avisa sobre a instalação obrigatória do Npcap antes dos downloads para Windows.
+
+### Correções e melhorias
+
+- O último modo de jogo e o último escopo do firewall escolhidos ficam salvos entre as execuções.
+- Reconexões rápidas da mesma partida foram refinadas para evitar reencontros falsos.
+- Corrigidas travadas na interface ao alternar o P2P Experimental e o escopo das regras.
+- Melhorias gerais de estabilidade, mensagens e acabamento visual.
+
 ## eFootball Toolkit PRO 2.1.1 — 25/08/2026
 
 Atualização obrigatória com novos recursos de comunicação, melhorias no monitor e expansão do aplicativo Mobile.
