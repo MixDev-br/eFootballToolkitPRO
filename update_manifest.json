@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "efootball-toolkit-pro",
   "channel": "stable",
-  "version": "2.1.2",
-  "published_at": "2026-08-29T13:37:35Z",
-  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.1.2/eFootball-Toolkit-PRO-v2.1.2.zip",
+  "version": "2.3.0",
+  "published_at": "2026-09-01T23:36:26Z",
+  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.0/eFootball-Toolkit-PRO-v2.3.0.zip",
   "package_format": "zip-onedir",
-  "sha256": "BE8BDBAB84A9D9B8FFEC5E56CEBD8DBFCE3150340CA8EA797F23B421E6CF35DC",
-  "size_bytes": 17149059,
-  "notes": "## eFootball Toolkit PRO 2.1.2\n\n### Novidades\n\n- O modo P2P Experimental permite escolher o uso do bloqueio DNS e alterar essa opção pelo clique direito.\n- Nova tela de abertura mais limpa e moderna.\n- O site agora orienta sobre a instalação do Npcap antes dos downloads para Windows.\n\n### Correções e melhorias\n\n- O último modo de jogo e o último escopo do firewall escolhidos ficam salvos entre as execuções.\n- Reconexões rápidas da mesma partida foram refinadas para evitar reencontros falsos.\n- Corrigidas travadas na interface ao alternar o P2P Experimental e o escopo das regras.\n- Melhorias gerais de estabilidade, mensagens e acabamento visual.",
+  "sha256": "7EA44BA8ED34085EEB40FD67756574DEC42828BE869DA7407A07532FFCAF15A6",
+  "size_bytes": 17228908,
+  "notes": "eFootball Toolkit PRO 2.3.0\n\n- O motor de detecção e acompanhamento de partidas foi amplamente reengenheirado, com uma nova arquitetura para reconhecer início, encerramento, reconexões e trocas de IP, porta e protocolo com mais precisão.\n- Ciclo de partidas aprimorado no Steam e no Xbox PC, incluindo transições entre TCP e UDP e servidores fora da faixa tradicional.\n- COOP inteligente com seleção de países e proteção integrada no Windows, Mobile e OpenWrt.\n- Modo P2P experimental e integração OpenWrt revisados para PC e consoles.\n- Reencontros e adversários marcados agora têm identificação, alerta visual e bloqueio mais confiáveis.\n- Detecção de DirectX corrigida e novo controle de inicialização DX11/DX12 para a Steam, com opção de preservar comandos personalizados.\n- Catálogo regional expandido com mais países e destinos, incluindo Lima/Peru.\n- Interface renovada nas telas Jogo, Firewall, Central de Servidores e Rede e Overlay, além de tutorial inicial e escolha de idioma antes da ativação.\n- Encerramento do aplicativo e liberação dos componentes de captura/firewall mais rápidos e seguros.\n- No Mobile, os alertas PSP e P2P agora usam sons claramente diferentes.\n\nExtraia todo o ZIP antes de executar. Para captura local no Windows, instale o Npcap. Para PC ou console via roteador, consulte o guia OpenWrt.",
   "mandatory": true,
-  "signature": "SfyMUPXYB6he9mb8yK3bIBEQbAbo9b6IQNOCQ20smv0WhXICi6RkaVnJoO9VJBPOcFclVv1RTAtCXIxl+yRECw=="
+  "signature": "rhHTy/PveTgidMzw3VKETBmOs18dytsjbLNzV7AjiwgvspbqTcYobZJhrRB+KXvPBfGzlEr4lrJqu52ou3LbCw=="
 }

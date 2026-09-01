@@ -1,5 +1,31 @@
 # Histórico de versões
 
+## eFootball Toolkit PRO 2.3.0 — 01/09/2026
+
+Esta versão traz uma ampla reengenharia do motor de detecção e acompanhamento de partidas, com foco em precisão, continuidade e compatibilidade entre Steam, Xbox PC, Android e OpenWrt.
+
+### Monitor e partidas
+
+- O motor de partidas foi amplamente reestruturado para reconhecer com mais segurança o início, o encerramento, as reconexões e as trocas de IP, porta e transporte TCP/UDP.
+- Corrigidas partidas do Xbox PC que podiam permanecer presas no monitor ou ser substituídas sem o encerramento correto.
+- Reencontros e adversários marcados agora distinguem melhor uma reconexão da mesma partida de uma nova sessão, com alertas e bloqueios mais consistentes.
+- Servidores fora da faixa tradicional e transições de endpoint passam a ser acompanhados sem dividir indevidamente uma única partida.
+
+### Modos, rede e regiões
+
+- Novo COOP inteligente com seleção de países, geolocalização rápida e bloqueio controlado somente depois que a partida é identificada.
+- P2P Experimental e COOP agora funcionam também pelo OpenWrt no aplicativo Windows, preservando o fluxo de captura local pelo Npcap.
+- Catálogo regional ampliado com novos países, cidades e endpoints internacionais.
+- No Mobile, os alertas de partidas PSP e P2P agora usam sons claramente diferentes.
+
+### DirectX e experiência do aplicativo
+
+- Detecção do DirectX revisada para Steam e Xbox PC.
+- O clique direito no botão do eFootball permite iniciar a versão Steam com DX11 ou DX12, ou preservar as opções personalizadas do usuário.
+- A primeira abertura começa pela escolha do idioma antes da ativação e inclui um tutorial guiado da dashboard.
+- Telas de Jogo, Firewall, Central de Servidores e Rede e Overlay reorganizadas para melhorar legibilidade, responsividade e navegação.
+- Encerramento do aplicativo e limpeza dos componentes de captura ficaram mais rápidos e confiáveis.
+
 ## eFootball Toolkit PRO 2.1.2 — 29/08/2026
 
 Atualização obrigatória focada em estabilidade, personalização e continuidade das preferências do jogador.
