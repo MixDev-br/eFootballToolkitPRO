@@ -1,5 +1,22 @@
 # Histórico de versões
 
+## eFootball Toolkit PRO 2.3.1 — 03/09/2026
+
+Atualização de precisão e estabilidade após a ampla renovação do monitor na versão 2.3.0.
+
+### Geolocalização e monitor
+
+- A localização de partidas P2P agora usa consenso entre três fontes independentes consultadas em paralelo no Windows e no Android.
+- Ping STUN e distância física participam da validação para reduzir resultados geográficos incompatíveis com a latência observada.
+- Refinado o encerramento e a retomada de partidas P2P para distinguir melhor oscilações da mesma conexão e novos reencontros.
+- Ajustes adicionais nos alertas de adversários marcados e nas mudanças de endpoint durante uma sessão.
+
+### Aplicativos e atualização
+
+- Corrigida a opção da Steam que preserva integralmente as instruções personalizadas de inicialização.
+- O Mobile passou a usar o mesmo manifesto assinado do Windows, com validação de assinatura, versão, tamanho e SHA-256 do APK.
+- A compilação pública do Windows não inclui a ferramenta interna de log detalhado usada nas builds de diagnóstico.
+
 ## eFootball Toolkit PRO 2.3.0 — 01/09/2026
 
 Esta versão traz uma ampla reengenharia do motor de detecção e acompanhamento de partidas, com foco em precisão, continuidade e compatibilidade entre Steam, Xbox PC, Android e OpenWrt.
