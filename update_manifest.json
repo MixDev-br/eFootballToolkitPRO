@@ -3,7 +3,7 @@
   "product": "efootball-toolkit-pro",
   "channel": "stable",
   "version": "2.3.1",
-  "published_at": "2026-09-03T22:52:29Z",
+  "published_at": "2026-09-04T23:45:26Z",
   "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.1/eFootball-Toolkit-PRO-v2.3.1.zip",
   "package_format": "zip-onedir",
   "sha256": "DF187F80B133669BCF376954F2D3F8D1F0199B46C4A6AAE8ADA3C7A0B2708EF2",
@@ -12,13 +12,13 @@
   "mandatory": true,
   "android": {
     "version": "2.3.1",
-    "build_number": 7,
-    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.1/eFootball-Toolkit-Mobile-v2.3.1.apk",
+    "build_number": 10,
+    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.1/eFootball-Toolkit-Mobile-v2.3.1-build10.apk",
     "package_format": "apk",
-    "sha256": "D989884B5073BE0A8B72B5C66D8211CF3398AB6F2A20B2F62329D46F3A145DFB",
-    "size_bytes": 54737947,
-    "notes": "## eFootball Toolkit PRO 2.3.1\n\nEsta atualização consolida as correções encontradas após a versão 2.3.0 e melhora a precisão da identificação de partidas P2P no Windows e no Android.\n\n### Geolocalização P2P\n\n- Novo sistema de geolocalização com consenso entre três fontes independentes, consultadas em paralelo para manter a identificação rápida.\n- Ping STUN e distância física agora participam da validação, reduzindo localizações incompatíveis com a latência observada.\n- Cache inteligente reaproveita evidências recentes sem prender o aplicativo a uma resposta incorreta.\n- A mesma lógica está disponível no Windows e no Mobile, sem depender de requisições ao Worker do Toolkit.\n\n### Monitor de partidas\n\n- Refinado o ciclo de encerramento e reconexão de partidas P2P para reduzir sessões encerradas cedo demais e reencontros classificados como continuação da partida anterior.\n- Melhor tratamento das retomadas de tráfego do mesmo endpoint e das mudanças de IP, porta e transporte durante uma sessão.\n- Ajustes adicionais na identificação de adversários marcados e nos alertas de reencontro.\n\n### Aplicativo e atualizações\n\n- Corrigida a opção da Steam para preservar as instruções de inicialização personalizadas sem alterá-las ao abrir o jogo.\n- O Mobile agora consulta o mesmo manifesto assinado do Windows, valida versão, assinatura, tamanho e SHA-256 antes de entregar o APK ao instalador do Android.\n- A compilação pública do Windows não inclui a interface nem a coleta do log detalhado de diagnóstico.",
+    "sha256": "B901A8B1E7ECF22629AECCF51FCC32817E42F14B07EE470ED5AF2B42229B1C6F",
+    "size_bytes": 58620955,
+    "notes": "eFootball Toolkit Mobile 2.3.1 - build 10\n\nAgora você pode dar um nome aos dispositivos sem nome na seleção do OpenWrt. Toque no lápis ao lado do aparelho, digite o nome e salve.\n\n- Os nomes ficam salvos no APK pelo MAC e continuam disponíveis ao reabrir o aplicativo ou quando o IP muda.\n- Você pode editar ou remover o nome depois.\n- Melhor organização da lista de dispositivos em telas pequenas e com texto ampliado.",
     "mandatory": true
   },
-  "signature": "/d+uBRIk2aLPZ6i0Wh55SUWe9jl4ZkItNLvgC4zxoi6NF90QEb4tYh2dCXmmIehT4MbX8+QICgdjUXY16Wt1Cw=="
+  "signature": "4/zMwBEYUtiuyape/qR/GSF3EnKNERMdwAYdg3LKAtzN3od3ZgWioVkbgDtSXUkT3ZXHZRRQX0IBFteWXqWmAA=="
 }

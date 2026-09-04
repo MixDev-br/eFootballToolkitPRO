@@ -192,7 +192,7 @@ The device code was hidden in the public screenshot for security.
 
 - [Download eFootball Toolkit PRO 2.3.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.1/eFootball-Toolkit-PRO-v2.3.1.zip)
 - [Download eFootball Toolkit TRIAL 2.3.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/trial-v2.3.1/eFootball-Toolkit-TRIAL-v2.3.1.zip)
-- [Download eFootball Toolkit Mobile 2.3.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.1/eFootball-Toolkit-Mobile-v2.3.1.apk)
+- [Download eFootball Toolkit Mobile 2.3.1 — build 10](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.1/eFootball-Toolkit-Mobile-v2.3.1-build10.apk)
 - [Set up Mobile and OpenWrt (Portuguese guide)](OPENWRT_MOBILE_GUIDE.md)
 - [Browse all versions](https://github.com/MixDev-br/eFootballToolkitPRO/releases)
 

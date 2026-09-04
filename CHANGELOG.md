@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## eFootball Toolkit Mobile 2.3.1 — build 10
+
+- Dispositivos sem nome podem ser renomeados na seleção do OpenWrt pelo botão de lápis.
+- Os nomes ficam salvos no APK pelo MAC, inclusive após reabrir o aplicativo ou trocar o IP.
+- É possível editar ou remover o nome salvo.
+- A lista se adapta a telas pequenas e a texto ampliado.
+
 ## eFootball Toolkit PRO 2.3.1 — 03/09/2026
 
 Atualização de precisão e estabilidade após a ampla renovação do monitor na versão 2.3.0.
