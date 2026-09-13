@@ -1,4 +1,11 @@
-EFT MATCH — 0.2.4 — Windows x64
+EFT MATCH — 0.2.5 — Windows x64
+
+DOWNLOAD COM LICEN?A
+Baixe pelo site com sua chave EFT MATCH ativa e ID do PC vinculado:
+https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download
+No site h? um utilit?rio gratuito para copiar o ID do PC.
+Quem usa 0.2.4 ou anterior deve baixar esta vers?o pelo site uma vez.
+
 
 GUIA RÁPIDO
 For the English guide, see README.txt.

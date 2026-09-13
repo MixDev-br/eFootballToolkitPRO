@@ -20,20 +20,20 @@
     "notes": "eFootball Toolkit Mobile 2.3.1 - build 10\n\nAgora você pode dar um nome aos dispositivos sem nome na seleção do OpenWrt. Toque no lápis ao lado do aparelho, digite o nome e salve.\n\n- Os nomes ficam salvos no APK pelo MAC e continuam disponíveis ao reabrir o aplicativo ou quando o IP muda.\n- Você pode editar ou remover o nome depois.\n- Melhor organização da lista de dispositivos em telas pequenas e com texto ampliado.",
     "mandatory": true
   },
-  "signature": "1kogP0lLvax7KIy8c380HNbDcqhcXtPCUfYlhjWpMl1svbp0nGvXXhJRTyks9jLlz2/l8IiZcBaSHjhxLvnqAQ==",
+  "signature": "JMd12reIWjkoMPjS+wRrzNJMOo7bmfY69idIU66KE3U8Cxtx/DpHEfqvj8up//c2m1RG9dBDWiOVXjHa/TkqAQ==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
-    "version": "0.2.4",
-    "build_number": 7,
-    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/eft-match-v0.2.4/EFT-MATCH-0.2.4-win64.zip",
+    "version": "0.2.5",
+    "build_number": 8,
+    "download_url": "https://eft-match-downloads.arley-efootball-toolkit.workers.dev/v1/eft-match/EFT-MATCH.zip",
     "package_format": "zip-onedir",
-    "sha256": "3F693CC3E73EC3DCD428AEA9319612199657C4E002E41F9D603BCC28FAB38DC2",
-    "size_bytes": 13105917,
-    "notes": "Plataforma do adversário no overlay, posição da janela salva e melhorias de estabilidade.\n\nEsta atualização é obrigatória para continuar utilizando o aplicativo.",
-    "mandatory": true,
-    "notes_en": "Opponent platform in the overlay, saved window position and stability improvements.\n\nThis update is required to continue using the application.",
-    "published_at": "2026-09-10T21:20:55.166679Z"
+    "sha256": "58BCC16A840C64B317D4CDF972E6882A5A684F744023C61B61BF2F795B462F22",
+    "size_bytes": 13110137,
+    "notes": "Downloads protegidos por licença. Para migrar da versão 0.2.4 ou anterior, baixe esta versão pelo site com sua chave EFT MATCH e ID do PC: https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download",
+    "mandatory": false,
+    "notes_en": "License-protected downloads. To migrate from 0.2.4 or earlier, download this version from the website using your EFT MATCH key and PC ID: https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download",
+    "published_at": "2026-09-13T18:58:08.372016Z"
   },
   "eft_match_module": {
     "product": "eft-match-module",

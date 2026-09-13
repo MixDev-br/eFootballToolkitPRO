@@ -190,9 +190,9 @@ O código do dispositivo foi ocultado na imagem pública por segurança.
 
 ## Download
 
-### EFT MATCH 0.2.4
+### EFT MATCH 0.2.5
 
-[Baixar EFT MATCH 0.2.4 para Windows](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/eft-match-v0.2.4/EFT-MATCH-0.2.4-win64.zip) · [Guia de uso](docs/eft-match/LEIA-ME.txt) · [Site e tutorial](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/)
+[Baixar EFT MATCH 0.2.5 com licença](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download) · [Guia de uso](docs/eft-match/LEIA-ME.txt) · [Site e tutorial](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/)
 
 Plataforma do adversário no overlay, posição da janela salva e melhorias de estabilidade.
 

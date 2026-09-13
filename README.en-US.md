@@ -190,9 +190,9 @@ The device code was hidden in the public screenshot for security.
 
 ## Download
 
-### EFT MATCH 0.2.4
+### EFT MATCH 0.2.5
 
-[Download EFT MATCH 0.2.4 for Windows](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/eft-match-v0.2.4/EFT-MATCH-0.2.4-win64.zip) · [User guide](docs/eft-match/README.txt) · [Website and tutorial](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/)
+[Download EFT MATCH 0.2.5 with a license](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download) · [User guide](docs/eft-match/README.txt) · [Website and tutorial](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/)
 
 Opponent platform in the overlay, saved window position and stability improvements.
 
