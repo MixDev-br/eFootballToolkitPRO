@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img alt="Versión 2.3.1" src="https://img.shields.io/badge/versión-2.3.1-22d3ee">
+  <img alt="Versión 2.3.5" src="https://img.shields.io/badge/versión-2.3.5-22d3ee">
   <img alt="Windows 10 y 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-2563eb">
   <img alt="Compatible con Steam y Xbox PC" src="https://img.shields.io/badge/eFootball-Steam%20%7C%20Xbox%20PC-10b981">
   <img alt="Idiomas disponibles" src="https://img.shields.io/badge/idiomas-PT%20%7C%20EN%20%7C%20ES-a855f7">
@@ -190,9 +190,9 @@ El código del dispositivo se ocultó en la captura pública por seguridad.
 
 ## Descargas
 
-### EFT MATCH 0.2.5
+### EFT MATCH 0.2.6
 
-[Descargar EFT MATCH 0.2.5 con licencia](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download) · [Guía en inglés](docs/eft-match/README.txt) · [Sitio y tutorial](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/)
+[Descargar EFT MATCH 0.2.6 con licencia](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download) · [Guía en inglés](docs/eft-match/README.txt) · [Sitio y tutorial](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/)
 
 Plataforma del rival en el overlay, posición de la ventana guardada y mejoras de estabilidad.
 
@@ -200,9 +200,9 @@ Requiere Windows 10/11 de 64 bits, Steam o Xbox PC, internet durante el uso y un
 
 ### Toolkit
 
-- [Descargar eFootball Toolkit PRO 2.3.4](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.4/eFootball-Toolkit-PRO-v2.3.4.zip)
+- [Descargar eFootball Toolkit PRO 2.3.4](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.5/eFootball-Toolkit-PRO-v2.3.5.zip)
 - [Descargar eFootball Toolkit TRIAL 2.3.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/trial-v2.3.1/eFootball-Toolkit-TRIAL-v2.3.1.zip)
-- [Descargar eFootball Toolkit Mobile 2.3.1 — build 10](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.1/eFootball-Toolkit-Mobile-v2.3.1-build10.apk)
+- [Descargar eFootball Toolkit Mobile 2.3.1 — build 10](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/mobile-v2.3.2/eFootball-Toolkit-Mobile-v2.3.2-build14.apk)
 - [Configurar Mobile y OpenWrt (guía en portugués)](OPENWRT_MOBILE_GUIDE.md)
 - [Consultar todas las versiones](https://github.com/MixDev-br/eFootballToolkitPRO/releases)
 
