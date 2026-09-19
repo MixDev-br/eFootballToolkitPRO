@@ -1,101 +1,40 @@
 # Atualizações de 19/09/2026
 
-# eFootball Toolkit PRO 2.3.5
+Novidades do Toolkit 2.3.5
 
-Mudanças em relação à versão 2.3.4.
+• Region Selector: os controles de região para partidas por servidor e COOP agora estão reunidos em um só lugar.
+• Novo filtro de regiões X1: escolha os países permitidos para suas partidas.
+• Melhor reconhecimento dos adversários no COOP, inclusive quando você entra como convidado.
+• Salve seus nicks e escolha qual usar sem precisar digitá-lo novamente.
+• Nova tela de Testes da Konami, com os pings por região e orientações de uso.
+• Melhorias na localização, distância e atualização das informações no overlay.
+• Com OpenWrt, monitore o dispositivo escolhido sem precisar abrir o jogo no PC.
+• Correções nas traduções, nos avisos e na lista de atividades.
 
-## Controle regional
+Para usar os recursos do EFT MATCH, atualize e inicie a extensão em Configurações → EFT MATCH. É necessária uma licença EFT MATCH ativa.
 
-- O antigo modo COOP e o seletor de atraso separado foram reunidos no **Region Selector**, na barra lateral. A seleção anterior de países é migrada, evitando duas configurações para a mesma finalidade.
-- O Region Selector atende partidas por servidor, incluindo COOP. No PC, aplica 500 ms aos testes de conexão fora dos países permitidos e bloqueia servidores recusados quando identificados. Requer monitor e regras habilitados.
-- Com a extensão EFT MATCH ativa, o bloqueio regional do COOP pode começar a partir dos relays recebidos na busca. Sem a extensão, continua usando a detecção do Monitor.
-- Novo filtro de regiões X1 com países permitidos e opções PSP, P2P ou ambas. No PC, usa a extensão EFT MATCH, funciona independentemente do modo e do escopo geral das regras e não é aplicado às sessões identificadas como COOP.
-- O filtro P2P trata os endereços IPv4 e IPv6 disponíveis do adversário para evitar que uma troca entre as duas conexões contorne o bloqueio. Países não identificados não são bloqueados por suposição.
-- Novas explicações nos controles regionais e avisos de bloqueio ou falha no overlay.
+Novidades do EFT MATCH 0.2.6
 
-## EFT MATCH, adversários e histórico
+• Melhor reconhecimento de partidas COOP, inclusive ao entrar como convidado.
+• Veja até três adversários do COOP ao mesmo tempo no overlay.
+• Salve vários nicks e selecione qual deseja usar.
+• Melhorias na atualização dos dados ao encontrar uma nova partida.
+• Interface mais limpa, sem mensagens de diagnóstico.
 
-- Melhor reconhecimento de partidas COOP, inclusive para quem entra como convidado, com separação entre companheiros de equipe e adversários.
-- O overlay da extensão mostra até três adversários do COOP simultaneamente. O overlay do Toolkit permite alternar entre eles para consultar e marcar cada jogador.
-- Campo de apelido com lista de nicks salvos, seleção e opção de salvar um novo nick. O nick continua sendo informado pelo usuário.
-- Melhor uso dos endereços da sessão para localizar o adversário e calcular a distância até o servidor efetivamente utilizado. No COOP, a localização acompanha o adversário selecionado; dados ausentes permanecem indisponíveis.
-- Melhor continuidade dos dados EFT durante interrupções breves e mudanças entre conexões P2P e servidor, preservando a identidade da partida e evitando duplicação no histórico. Uma nova busca não deve herdar os dados da anterior.
-- Histórico com nick, identificação EFT e plataforma, além da possibilidade de marcar o jogador pela conta a partir da partida registrada.
+Sua licença e suas configurações salvas são mantidas.
 
-## Testes da Konami
+Novidades do Toolkit Mobile 2.3.2
 
-- Nova janela com pings por região recebidos do jogo, busca por país/região, datas disponíveis e indicadores da atividade do atraso.
-- Explicações e tooltip sobre o funcionamento, a necessidade de iniciar a extensão nas configurações do Toolkit e o procedimento quando todos os valores aparecem como N/A.
-- Avaliação automática indica se os pings fora dos países permitidos são compatíveis com o atraso ou se o cache ainda pode estar sem ele. É uma estimativa: ping alto, sozinho, não confirma atraso aplicado nem garante um servidor específico.
+• Bandeira do país ao lado da localização da partida.
+• Novo filtro de regiões X1 com escolha dos países permitidos.
+• SMART COOP agora se chama Seletor de Região, com explicações sobre cada modo.
+• Estado da conexão com o roteador mais claro e opção de iniciar o monitor ao abrir o app.
+• Dados de acesso ao roteador salvos com segurança, evitando digitar novamente.
+• Escolha entre português e inglês, mantida ao reabrir o aplicativo.
+• Correção da tela cinza ao rolar a lista de países.
+• Configurações mais simples, sem ferramentas de teste.
 
-## OpenWrt
-
-- O monitor usa o dispositivo selecionado no roteador, sem precisar abrir eFootball no PC.
-- Correção da identificação do modo OpenWrt ao reabrir o Toolkit, incluindo os casos em que a configuração existe mas o roteador está indisponível.
-- Opções que dependem da extensão EFT MATCH e do atraso de servidores ficam indisponíveis com explicação. No OpenWrt, o Region Selector usa o bloqueio pelo Monitor, sem injetar atraso.
-- Traduções da configuração e dos controles OpenWrt em português, inglês e espanhol.
-
-## Monitor e produção
-
-- Atualização do ping e da perda ICMP no overlay quando chegam novas medições, evitando manter o percentual anterior. A perda ICMP é uma estimativa das sondas ao servidor, não uma medição direta da perda de todos os pacotes do jogo.
-- Logs detalhados de diagnóstico do monitor e da extensão EFT MATCH desativados na versão de produção.
-- Mensagens técnicas do EFT MATCH removidas de Atividades, preservando os eventos do monitor e avisos ao usuário. A cópia das atividades usa a notificação visual do Toolkit, com tooltip e confirmação traduzidos.
-- Filtro de regiões X1 com textos e países traduzidos para inglês e espanhol; busca e ordenação seguem o idioma escolhido.
-
-O EFT MATCH permanece opcional e exige licença própria. Os recursos que usam seus dados dependem da extensão ativa e atualizada no PC; não estão disponíveis no console via OpenWrt. Licenças e configurações salvas são preservadas.
-
-
-# EFT MATCH 0.2.6 — build 9
-
-Mudanças em relação à versão 0.2.5, build 8.
-
-## Português
-
-- Reconhecimento de partidas COOP, inclusive ao participar como convidado, usando a mesma lógica compartilhada com a extensão do Toolkit para identificar a equipe adversária.
-- Overlay com até três adversários do COOP visíveis ao mesmo tempo. Alterações na lista também atualizam o painel, mesmo quando o primeiro adversário permanece igual.
-- Ao voltar para uma partida X1, o overlay retorna ao formato individual. A opção de ocultar e reexibir preserva a lista COOP da sessão atual.
-- Campo de apelido com menu de nicks salvos e opção de salvar um novo nick. A seleção permanece disponível após reiniciar o aplicativo.
-- Fluxo de produção sem coleta adicional de comandos exclusivos de diagnóstico. O processamento necessário à identificação das partidas continua ativo.
-
-O nick continua sendo informado pelo usuário. No COOP, o painel apresenta os nomes e plataformas disponíveis; não promete divisão, ranking ou força coletiva quando esses dados não chegam. O aplicativo continua exigindo sua licença EFT MATCH e acesso à internet.
-
-## English
-
-- COOP recognition, including when joining as a guest, using the same shared opponent-team identification logic as the Toolkit extension.
-- The overlay shows up to three COOP opponents together. Roster changes refresh the panel even if the first opponent stays the same.
-- Returning to X1 restores the individual opponent layout. Hiding and showing the overlay preserves the current COOP roster.
-- Saved nickname dropdown with an option to save another nickname. Your selection remains available after restarting the app.
-- Production flow excludes additional commands used only for diagnostics. Processing required to identify matches remains active.
-
-Your nickname still needs to be entered manually. COOP displays available names and platforms; division, ranking and team strength are not promised when the data is unavailable. An EFT MATCH license and internet access are still required.
-
-
-# eFootball Toolkit Mobile 2.3.2 — build 14
-
-- Bandeiras ao lado da localização das partidas.
-- Filtro de Região X1 com países permitidos e ativação independente das regras do modo.
-- SMART COOP passa a se chamar Seletor de Região, com ajuda explicativa dos modos e filtros.
-- Verificação real da conexão OpenWrt ao iniciar, estado desconectado visível e opção de iniciar o monitor automaticamente.
-- Usuário e senha SSH salvos em armazenamento seguro para reutilização na configuração.
-- Idiomas PT/EN com seleção persistente.
-- Correção do painel cinza ao rolar a lista de países.
-- Ferramentas experimentais de coleta e logs removidas das Configurações de produção.
-
-Requer roteador OpenWrt compatível. O filtro usa a conexão identificada pelo monitor; não injeta atraso nem oferece dados da extensão EFT MATCH.
-
-## English
-
-- Country flags next to match locations.
-- X1 region filter with allowed countries and activation independent of mode rules.
-- SMART COOP renamed to Region Selector, with help for modes and filters.
-- Verified OpenWrt connection at startup, visible disconnected state and optional automatic monitoring.
-- SSH credentials saved in secure storage for setup reuse.
-- Persistent PT/EN language selection.
-- Fixed the gray panel when scrolling the country list.
-- Experimental capture and logging tools removed from production Settings.
-
-Requires a compatible OpenWrt router. Filtering uses the connection identified by the monitor; it does not inject delay or provide EFT MATCH extension data.
-
+Mantenha seu console ou PC conectado ao roteador OpenWrt configurado no aplicativo.
 
 ---
 
