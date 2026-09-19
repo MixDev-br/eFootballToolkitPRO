@@ -3,13 +3,13 @@
   "product": "efootball-toolkit-pro",
   "channel": "stable",
   "version": "2.3.5",
-  "published_at": "2026-09-19T18:48:30.822843Z",
+  "published_at": "2026-09-19T19:11:50.270246Z",
   "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.5/eFootball-Toolkit-PRO-v2.3.5.zip",
   "package_format": "zip-onedir",
   "sha256": "DFBF7CE0911AD664CFF3644F998E62C5B4B615C8849ECB22C77CD0F96AB7E229",
   "size_bytes": 18146507,
   "notes": "Novidades do Toolkit 2.3.5\n\n• Region Selector: os controles de região para partidas por servidor e COOP agora estão reunidos em um só lugar.\n• Novo filtro de regiões X1: escolha os países permitidos para suas partidas.\n• Melhor reconhecimento dos adversários no COOP, inclusive quando você entra como convidado.\n• Salve seus nicks e escolha qual usar sem precisar digitá-lo novamente.\n• Nova tela de Testes da Konami, com os pings por região e orientações de uso.\n• Melhorias na localização, distância e atualização das informações no overlay.\n• Com OpenWrt, monitore o dispositivo escolhido sem precisar abrir o jogo no PC.\n• Correções nas traduções, nos avisos e na lista de atividades.\n\nPara usar os recursos do EFT MATCH, atualize e inicie a extensão em Configurações → EFT MATCH. É necessária uma licença EFT MATCH ativa.\n\nEnglish\n\nWhat's new in Toolkit 2.3.5\n\n• Region Selector brings region controls for server-based and COOP matches together in one place.\n• New X1 region filter: choose the allowed countries for your matches.\n• Improved COOP opponent recognition, including when you join as a guest.\n• Save your nicknames and choose one without typing it again.\n• New Konami Tests screen with regional pings and usage guidance.\n• Improved location, distance and information updates in the overlay.\n• With OpenWrt, monitor your selected device without opening the game on your PC.\n• Translation, notification and activity list fixes.\n\nTo use EFT MATCH features, update and start the extension in Settings → EFT MATCH. An active EFT MATCH license is required.",
-  "mandatory": false,
+  "mandatory": true,
   "android": {
     "version": "2.3.2",
     "build_number": 14,
@@ -18,10 +18,10 @@
     "sha256": "BFCFB6E5D59E5A2336BAE290CF51E83CF92A349F7B43E8F70077A5D6BD185820",
     "size_bytes": 56265483,
     "notes": "Novidades do Toolkit Mobile 2.3.2\n\n• Bandeira do país ao lado da localização da partida.\n• Novo filtro de regiões X1 com escolha dos países permitidos.\n• SMART COOP agora se chama Seletor de Região, com explicações sobre cada modo.\n• Estado da conexão com o roteador mais claro e opção de iniciar o monitor ao abrir o app.\n• Dados de acesso ao roteador salvos com segurança, evitando digitar novamente.\n• Escolha entre português e inglês, mantida ao reabrir o aplicativo.\n• Correção da tela cinza ao rolar a lista de países.\n• Configurações mais simples, sem ferramentas de teste.\n\nMantenha seu console ou PC conectado ao roteador OpenWrt configurado no aplicativo.",
-    "mandatory": false,
+    "mandatory": true,
     "notes_en": "What's new in Toolkit Mobile 2.3.2\n\n• Country flags next to match locations.\n• New X1 region filter with a choice of allowed countries.\n• SMART COOP is now called Region Selector, with explanations for each mode.\n• Clearer router connection status and optional monitoring when the app opens.\n• Router login details saved securely so you do not need to enter them again.\n• Portuguese and English language selection remembered when reopening the app.\n• Fixed the gray screen when scrolling the country list.\n• Simpler settings without testing tools.\n\nKeep your console or PC connected to the OpenWrt router configured in the app."
   },
-  "signature": "uDAAjOwI3CLbVoZOn6UjqA2rx6/Ig88a17EAsWdM3mfPGNoySJeftIuMBYWd2BRL3ggWKLKbvdLW4HNe9lmqAA==",
+  "signature": "9l5nSd1MJ9yD7b5eYQQ28LWNP2kvVEaBD5Yhaz3ovB0EjU5oCgvFXciwc5oWw868OsdwDEwV4S9yVlys1CtXBg==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
@@ -31,9 +31,9 @@
     "package_format": "zip-onedir",
     "sha256": "503E302E77C7A2600BA218C3A92D290F895FB9F6E4B206BF76180FABCF86E666",
     "size_bytes": 13120299,
-    "notes": "Novidades do EFT MATCH 0.2.6\n\n• Melhor reconhecimento de partidas COOP, inclusive ao entrar como convidado.\n• Veja até três adversários do COOP ao mesmo tempo no overlay.\n• Salve vários nicks e selecione qual deseja usar.\n• Melhorias na atualização dos dados ao encontrar uma nova partida.\n• Interface mais limpa, sem mensagens de diagnóstico.\n\nSua licença e suas configurações salvas são mantidas.",
-    "mandatory": false,
-    "notes_en": "What's new in EFT MATCH 0.2.6\n\n• Improved COOP recognition, including when joining as a guest.\n• View up to three COOP opponents at once in the overlay.\n• Save multiple nicknames and select the one you want to use.\n• Improved information updates when a new match is found.\n• A cleaner interface without diagnostic messages.\n\nYour license and saved settings are preserved.",
+    "notes": "ATUALIZAÇÃO OBRIGATÓRIA\n\nUsa o EFT MATCH 0.2.4 ou anterior? Faça esta atualização pelo site:\nhttps://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download\n\nInforme sua chave EFT MATCH e o ID do PC. Baixe a versão 0.2.6, feche o aplicativo antigo, extraia a pasta completa e abra o EFT_MATCH.exe novo. Sua licença e seus nicks salvos serão mantidos.\n\nO botão de download das versões 0.2.4 e anteriores não funciona nesta atualização. Depois de instalar a versão nova, você poderá baixar as próximas atualizações pelo aplicativo.\n\nNovidades do EFT MATCH 0.2.6\n\n• Melhor reconhecimento de partidas COOP, inclusive ao entrar como convidado.\n• Veja até três adversários do COOP ao mesmo tempo no overlay.\n• Salve vários nicks e selecione qual deseja usar.\n• Melhorias na atualização dos dados ao encontrar uma nova partida.\n• Interface mais limpa, sem mensagens de diagnóstico.\n\nSua licença e suas configurações salvas são mantidas.",
+    "mandatory": true,
+    "notes_en": "REQUIRED UPDATE\n\nUsing EFT MATCH 0.2.4 or earlier? Install this update through the website:\nhttps://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download\n\nEnter your EFT MATCH key and PC ID. Download version 0.2.6, close the old app, extract the entire folder and open the new EFT_MATCH.exe. Your license and saved nicknames will be preserved.\n\nThe download button in versions 0.2.4 and earlier cannot install this update. Once you have installed the new version, you can download future updates through the app.\n\nWhat's new in EFT MATCH 0.2.6\n\n• Improved COOP recognition, including when joining as a guest.\n• View up to three COOP opponents at once in the overlay.\n• Save multiple nicknames and select the one you want to use.\n• Improved information updates when a new match is found.\n• A cleaner interface without diagnostic messages.\n\nYour license and saved settings are preserved.",
     "published_at": "2026-09-19T18:48:30.822843Z"
   },
   "eft_match_module": {
