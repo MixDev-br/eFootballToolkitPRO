@@ -1,3 +1,9 @@
+# Atualização Mobile 2.3.4 — 25/09/2026
+
+A Central de Servidores e a sugestão do endereço do roteador OpenWrt agora chegam também a quem instalou a atualização anterior antecipadamente.
+
+---
+
 # Atualizações de 25/09/2026
 
 ## Toolkit PRO 2.3.6

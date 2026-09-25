@@ -202,7 +202,7 @@ Requiere Windows 10/11 de 64 bits, Steam o Xbox PC, internet durante el uso y un
 
 - [Descargar eFootball Toolkit PRO 2.3.6](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.6/eFootball-Toolkit-PRO-v2.3.6.zip)
 - [Descargar eFootball Toolkit TRIAL 2.3.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/trial-v2.3.1/eFootball-Toolkit-TRIAL-v2.3.1.zip)
-- [Descargar eFootball Toolkit Mobile 2.3.3 — build 17](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/mobile-v2.3.3/eFootball-Toolkit-Mobile-v2.3.3-b17.apk)
+- [Descargar eFootball Toolkit Mobile 2.3.4 — build 18](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/mobile-v2.3.4/eFootball-Toolkit-Mobile-v2.3.4-b18.apk)
 - [Configurar Mobile y OpenWrt (guía en portugués)](OPENWRT_MOBILE_GUIDE.md)
 - [Consultar todas las versiones](https://github.com/MixDev-br/eFootballToolkitPRO/releases)
 

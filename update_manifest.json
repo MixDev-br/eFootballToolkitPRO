@@ -11,17 +11,18 @@
   "notes": "## Português\n\n- Resumos de partidas mostram o ping máximo com mais precisão.\n- Partidas do Xbox PC que permanecerem na tela após o fim são salvas no histórico quando a próxima partida é encontrada.\n- Melhorias de estabilidade no monitor e na apresentação dos dados.\n\n## English\n\n- Match summaries show a more accurate maximum ping.\n- Xbox PC matches that remain on screen after ending are saved to history when the next match is found.\n- Monitor stability and match display improvements.",
   "mandatory": true,
   "android": {
-    "version": "2.3.3",
-    "build_number": 17,
-    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/mobile-v2.3.3/eFootball-Toolkit-Mobile-v2.3.3-b17.apk",
+    "version": "2.3.4",
+    "build_number": 18,
+    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/mobile-v2.3.4/eFootball-Toolkit-Mobile-v2.3.4-b18.apk",
     "package_format": "apk",
-    "sha256": "F9332446757E0CA54FE8C124E59EAC573DA9EBA14B6B861C921747D8D7E3C27D",
+    "sha256": "795F7E72A05E8A464A15EFCB0536228F957D7E16CE7C78ECC0EA5DFCCE0621C5",
     "size_bytes": 56396859,
-    "notes": "Toolkit Mobile 2.3.3: ao configurar o OpenWrt, o app sugere o endereço do roteador usando a rede Wi-Fi atual. A Central de Servidores permite testar e organizar destinos com filtro por país. Melhorias de estabilidade.",
+    "notes": "Toolkit Mobile 2.3.4: o app sugere o endereço do roteador ao configurar o OpenWrt. A Central de Servidores permite testar e organizar destinos com filtro por país. Esta atualização também chega a quem instalou a versão anterior antecipadamente.",
     "mandatory": true,
-    "notes_en": "Toolkit Mobile 2.3.3: when setting up OpenWrt, the app suggests the router address from the current Wi-Fi network. The Server Center lets you test and organize destinations with a country filter. Stability improvements."
+    "notes_en": "Toolkit Mobile 2.3.4: the app suggests the router address during OpenWrt setup. The Server Center lets you test and organize destinations with a country filter. This update also reaches customers who installed the previous version early.",
+    "published_at": "2026-09-25T17:33:14.938580Z"
   },
-  "signature": "jq5kGaTx0BFHvHE1vIzWqkbj8sl0YVNTIy6TD3kLzLSjHS0rFhcu9r7tfPilnfe0LgTt2KBal3jW4oorgLjzAg==",
+  "signature": "6Iy0jXZJ77ex693EpGoObGKNV22+OO/0LSVneRP5m4+cqukWYl3Dw457BDxwmx7NHhmvPrlZiUw0LPjOz/cYAA==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
