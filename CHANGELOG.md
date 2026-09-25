@@ -1,3 +1,23 @@
+# Atualizações de 25/09/2026
+
+## Toolkit PRO 2.3.6
+
+- Resumos de partidas mostram o ping máximo com mais precisão.
+- Partidas do Xbox PC que permanecerem na tela após o fim são salvas no histórico quando a próxima partida é encontrada.
+- Melhorias de estabilidade no monitor e na apresentação dos dados.
+
+## Toolkit Mobile 2.3.3
+
+- O aplicativo sugere o endereço do roteador ao configurar o OpenWrt usando a rede Wi-Fi atual.
+- Central de Servidores com testes, organização de destinos e filtro por país.
+- Melhorias de estabilidade.
+
+## EFT MATCH 0.2.7
+
+- Ao abrir junto do Toolkit PRO, o EFT MATCH explica como ativar sua extensão no Toolkit e usar os recursos em um só aplicativo.
+
+---
+
 # Atualizações de 19/09/2026
 
 Novidades do Toolkit 2.3.5
