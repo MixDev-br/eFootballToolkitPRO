@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img alt="Versão 2.3.6" src="https://img.shields.io/badge/versão-2.3.6-22d3ee">
+  <img alt="Versão 2.3.7" src="https://img.shields.io/badge/versão-2.3.7-22d3ee">
   <img alt="Windows 10 e 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-2563eb">
   <img alt="Compatível com Steam e Xbox PC" src="https://img.shields.io/badge/eFootball-Steam%20%7C%20Xbox%20PC-10b981">
   <img alt="Idiomas disponíveis" src="https://img.shields.io/badge/idiomas-PT%20%7C%20EN%20%7C%20ES-a855f7">
@@ -190,9 +190,9 @@ O código do dispositivo foi ocultado na imagem pública por segurança.
 
 ## Download
 
-### EFT MATCH 0.2.7
+### EFT MATCH 0.2.8
 
-[Baixar EFT MATCH 0.2.7 com licença](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download) · [Guia de uso](docs/eft-match/LEIA-ME.txt) · [Site e tutorial](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/)
+[Baixar EFT MATCH 0.2.8 com licença](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download) · [Guia de uso](docs/eft-match/LEIA-ME.txt) · [Site e tutorial](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/)
 
 Veja o adversário antes da confirmação da partida. Com o Toolkit PRO aberto, o aplicativo explica como ativar a extensão e usar os recursos juntos.
 
@@ -200,7 +200,7 @@ Requer Windows 10/11 de 64 bits, Steam ou Xbox PC, internet durante o uso e lice
 
 ### Toolkit
 
-- [Baixar eFootball Toolkit PRO 2.3.6](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.6/eFootball-Toolkit-PRO-v2.3.6.zip)
+- [Baixar eFootball Toolkit PRO 2.3.7](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.7/eFootball-Toolkit-PRO-v2.3.7.zip)
 - [Baixar eFootball Toolkit TRIAL 2.3.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/trial-v2.3.1/eFootball-Toolkit-TRIAL-v2.3.1.zip)
 - [Baixar eFootball Toolkit Mobile 2.3.4 — build 18](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/mobile-v2.3.4/eFootball-Toolkit-Mobile-v2.3.4-b18.apk)
 - [Configurar o Mobile e o OpenWrt](OPENWRT_MOBILE_GUIDE.md)

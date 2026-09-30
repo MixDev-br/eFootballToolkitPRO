@@ -1,3 +1,21 @@
+# Atualiza??es obrigat?rias de 30/09/2026
+
+## Toolkit PRO 2.3.7
+
+- Partidas UDP mostram uma estimativa do ping inicial da pr?pria conex?o; o ICMP, quando dispon?vel, aparece em Detalhes.
+- Partidas TCP mostram retransmiss?es como sinal de poss?vel problema de rede.
+- As cores de dist?ncia em PSP comparam voc? e o advers?rio ao servidor da partida.
+- Melhorias no EFT MATCH, nos avisos de reencontro, nas atividades, na interface e nas tradu??es.
+
+## EFT MATCH 0.2.8
+
+- O Smart Assist aparece no overlay em partidas 1v1 quando dispon?vel. O selo fica oculto em COOP e teamplay.
+- A identifica??o de partidas usa a API de produ??o com a licen?a EFT MATCH v?lida.
+
+Veja as notas completas em [Toolkit PRO 2.3.7](docs/release-notes-2.3.7.md) e [EFT MATCH 0.2.8](docs/release-notes-eft-match-0.2.8.md).
+
+---
+
 # Atualização Mobile 2.3.4 — 25/09/2026
 
 A Central de Servidores e a sugestão do endereço do roteador OpenWrt agora chegam também a quem instalou a atualização anterior antecipadamente.

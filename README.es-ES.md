@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img alt="Versión 2.3.6" src="https://img.shields.io/badge/versión-2.3.6-22d3ee">
+  <img alt="Versión 2.3.7" src="https://img.shields.io/badge/versión-2.3.7-22d3ee">
   <img alt="Windows 10 y 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-2563eb">
   <img alt="Compatible con Steam y Xbox PC" src="https://img.shields.io/badge/eFootball-Steam%20%7C%20Xbox%20PC-10b981">
   <img alt="Idiomas disponibles" src="https://img.shields.io/badge/idiomas-PT%20%7C%20EN%20%7C%20ES-a855f7">
@@ -190,9 +190,9 @@ El código del dispositivo se ocultó en la captura pública por seguridad.
 
 ## Descargas
 
-### EFT MATCH 0.2.7
+### EFT MATCH 0.2.8
 
-[Descargar EFT MATCH 0.2.7 con licencia](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download) · [Guía en inglés](docs/eft-match/README.txt) · [Sitio y tutorial](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/)
+[Descargar EFT MATCH 0.2.8 con licencia](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download) · [Guía en inglés](docs/eft-match/README.txt) · [Sitio y tutorial](https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/)
 
 Ve al rival antes de confirmar el partido. Con Toolkit PRO abierto, la aplicación explica cómo activar la extensión y usar ambos juntos.
 
@@ -200,7 +200,7 @@ Requiere Windows 10/11 de 64 bits, Steam o Xbox PC, internet durante el uso y un
 
 ### Toolkit
 
-- [Descargar eFootball Toolkit PRO 2.3.6](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.6/eFootball-Toolkit-PRO-v2.3.6.zip)
+- [Descargar eFootball Toolkit PRO 2.3.7](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.7/eFootball-Toolkit-PRO-v2.3.7.zip)
 - [Descargar eFootball Toolkit TRIAL 2.3.1](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/trial-v2.3.1/eFootball-Toolkit-TRIAL-v2.3.1.zip)
 - [Descargar eFootball Toolkit Mobile 2.3.4 — build 18](https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/mobile-v2.3.4/eFootball-Toolkit-Mobile-v2.3.4-b18.apk)
 - [Configurar Mobile y OpenWrt (guía en portugués)](OPENWRT_MOBILE_GUIDE.md)
