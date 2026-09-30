@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "efootball-toolkit-pro",
   "channel": "stable",
-  "version": "2.3.6",
-  "published_at": "2026-09-25T17:09:33Z",
-  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.6/eFootball-Toolkit-PRO-v2.3.6.zip",
+  "version": "2.3.7",
+  "published_at": "2026-09-30T12:28:12Z",
+  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.7/eFootball-Toolkit-PRO-v2.3.7.zip",
   "package_format": "zip-onedir",
-  "sha256": "4F6154A88ADDE27CF831C7D1C7789F682E3D7A841413C25EAB76AF010307C323",
-  "size_bytes": 18166645,
-  "notes": "## Português\n\n- Resumos de partidas mostram o ping máximo com mais precisão.\n- Partidas do Xbox PC que permanecerem na tela após o fim são salvas no histórico quando a próxima partida é encontrada.\n- Melhorias de estabilidade no monitor e na apresentação dos dados.\n\n## English\n\n- Match summaries show a more accurate maximum ping.\n- Xbox PC matches that remain on screen after ending are saved to history when the next match is found.\n- Monitor stability and match display improvements.",
+  "sha256": "5C4A31F0275C65B26657B35628AAAC7E2C522FD6176337FC9E44AB8532B8C2EB",
+  "size_bytes": 18317483,
+  "notes": "## Português — ATUALIZAÇÃO OBRIGATÓRIA\n\nInstale o Toolkit 2.3.7 para continuar usando o aplicativo. Sua licença e suas configurações serão mantidas.\n\n- Partidas UDP mostram a estimativa do ping inicial obtida da própria conexão. Quando não há medição contínua, o resumo informa isso; o ICMP, se disponível, fica em Detalhes.\n- Partidas TCP mostram retransmissões como sinal de possível problema na conexão, sem chamar isso de perda exata de pacotes.\n- Em PSP, a distância compara você e o adversário com o servidor da partida. O ícone de informação explica as cores; sem localizações suficientes, não há cor de vantagem.\n- O Smart Assist aparece no 1v1 quando disponível e fica oculto no COOP/teamplay.\n- Se o EFT MATCH parar, Atividades mostra um motivo claro. Corrigimos textos em inglês e melhoramos a interface e a movimentação da janela.\n- Melhoramos os avisos de reencontro, a proteção de adversários marcados e a retomada após interrupções curtas.\n\n## English — REQUIRED UPDATE\n\nInstall Toolkit 2.3.7 to keep using the app. Your license and settings will be preserved.\n\n- UDP matches show an initial ping estimate from the match connection. Summaries identify when no continuous reading exists; ICMP, if available, appears in Details.\n- TCP matches show retransmissions as a sign of possible connection trouble, not an exact packet loss rate.\n- In PSP, distance compares you and your opponent with the match server. The information icon explains the colors; insufficient location data means no advantage color.\n- Smart Assist appears in 1v1 when available and stays hidden in COOP/teamplay.\n- If EFT MATCH stops, Activity shows a clear reason. We also fixed English text and improved the interface and window dragging.\n- Improved rematch alerts, marked opponent protection and recovery after brief connection interruptions.",
   "mandatory": true,
   "android": {
     "version": "2.3.4",
@@ -22,31 +22,31 @@
     "notes_en": "Toolkit Mobile 2.3.4: the app suggests the router address during OpenWrt setup. The Server Center lets you test and organize destinations with a country filter. This update also reaches customers who installed the previous version early.",
     "published_at": "2026-09-25T17:33:14.938580Z"
   },
-  "signature": "6Iy0jXZJ77ex693EpGoObGKNV22+OO/0LSVneRP5m4+cqukWYl3Dw457BDxwmx7NHhmvPrlZiUw0LPjOz/cYAA==",
+  "signature": "xa02mCNxq+x2r/juSjX9gAE5X5Tp2HBQYjLFshRTLVHtuNL8TISoyJxqh6b6dHLLl7e+5YRUkSFsGIOMsshaAw==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
-    "version": "0.2.7",
-    "build_number": 10,
+    "version": "0.2.8",
+    "build_number": 11,
     "download_url": "https://eft-match-downloads.arley-efootball-toolkit.workers.dev/v1/eft-match/EFT-MATCH.zip",
     "package_format": "zip-onedir",
-    "sha256": "D6855FFD50CF3B69FEB8F706D8C200918A019C160DD98AF11A1DC600E096028B",
-    "size_bytes": 13227957,
-    "notes": "EFT MATCH 0.2.7: ao abrir junto do Toolkit PRO, veja como ativar a extensão no próprio Toolkit e usar os recursos em um só aplicativo. Se usa a versão 0.2.4 ou anterior, atualize pelo site: https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download",
+    "sha256": "CF276CBEBA8243EDFB92E6E1DF00B2F2E51371BD7E17BAF4D80F3CA7588DBCB7",
+    "size_bytes": 13232098,
+    "notes": "Esta atualização obrigatória mostra o Smart Assist em partidas 1v1 quando disponível e o oculta em COOP/teamplay. A identificação usa a API de produção com sua chave EFT MATCH.",
     "mandatory": true,
-    "notes_en": "EFT MATCH 0.2.7: when Toolkit PRO is open, learn how to enable the extension inside Toolkit and use both sets of features in one app. If you use version 0.2.4 or earlier, update through the website: https://mixdev-br.github.io/eFootballToolkitPRO/eft-match/#download",
-    "published_at": "2026-09-25T17:09:53.083232Z"
+    "notes_en": "This update is required. Smart Assist appears in 1v1 when available and stays hidden in COOP/teamplay. Identification uses the production API with your EFT MATCH key.",
+    "published_at": "2026-09-30T13:02:57.811946Z"
   },
   "eft_match_module": {
     "product": "eft-match-module",
     "platform": "windows-x64",
     "abi": 3,
-    "version": "2.0.0",
-    "minimum_toolkit_version": "2.3.5",
+    "version": "2.0.1",
+    "minimum_toolkit_version": "2.3.7",
     "package_format": "dll",
     "download_url": "https://eft-match-modules.arley-efootball-toolkit.workers.dev/v1/eft-match/module",
     "download_auth": "eft-license-v1",
-    "sha256": "5fee5d866d981bfaefd785a8a8343be244cb58c66ff6a3a76e7709c3278f90ea",
-    "size_bytes": 742912
+    "sha256": "b1909ed6f9f5b02da142cce7655ded7e2fec18b5f90e20dcca580a47fce1d3df",
+    "size_bytes": 744960
   }
 }
