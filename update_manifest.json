@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "product": "efootball-toolkit-pro",
+  "channel": "stable",
+  "version": "2.3.8",
+  "published_at": "2026-10-05T15:57:45Z",
+  "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/v2.3.8/eFootball-Toolkit-PRO-v2.3.8.zip",
+  "package_format": "zip-onedir",
+  "sha256": "FA8F04B9449CAB8EE591C2F689B9F9C987804E4B31E0742E5CE401FF058D7C8A",
+  "size_bytes": 18658115,
+  "notes": "Português — PRO Desktop 2.3.8 e Mobile 2.3.5\n\nPRO Desktop: bloqueie Google ou AWS no Region Selector, junto dos países permitidos, onde o provedor tiver servidores identificados. No PC, a escolha também acrescenta atraso aos testes dos servidores recusados. Melhoramos bloqueio por provedor, cadastro de servidores, filtro X1 e Firewall. UDP/TCP só para PSP; em X1/P2P, permanece em Padrão. Central: sem resposta ao ping comum, tenta TCP 443.\n\nUse Region Selector junto aos Testes da Konami: leia Central de Servidores → Testes da Konami → Como funciona e o que fazer. Mantenha monitor e regras ligados, inicie a extensão EFT MATCH antes do jogo e siga as instruções para renovar os testes. Resultados antigos podem continuar em uso; ping alto sozinho não garante que sua seleção foi aplicada.\n\nMobile: ping sem alternar entre valor e “--”, última medição identificada e distância recuperada após falhas de localização. Endereço com porta e UDP/TCP, cadastro de novos servidores e remoção do agente quando a licença termina, se o roteador estiver acessível.\n\nEnglish — PRO Desktop 2.3.8 and Mobile 2.3.5\n\nDesktop: block Google or AWS in Region Selector alongside allowed countries, wherever the provider's servers are identified. On PC, rejected servers also receive delay in connection tests. Improved provider blocking, new server saving, X1 filtering and Firewall layout. UDP/TCP is PSP-only and stays Default in X1/P2P. Server Center tries TCP 443 if normal ping gets no response.\n\nUse Region Selector with Konami Tests. Read Server Center → Konami Tests → How it works and what to do. Enable monitor and rules, start EFT MATCH before the game and follow the steps to refresh tests. Older results may remain in use; high ping alone does not confirm your selection took effect.\n\nMobile: stable ping display, labelled last readings and distance recovery. Addresses include port and UDP/TCP. New server saving and agent removal when the license ends, if the router is reachable.",
+  "mandatory": true,
+  "android": {
+    "version": "2.3.5",
+    "build_number": 19,
+    "download_url": "https://github.com/MixDev-br/eFootballToolkitPRO/releases/download/mobile-v2.3.5/eFootball-Toolkit-Mobile-v2.3.5.apk",
+    "package_format": "apk",
+    "sha256": "C4B9335C0F62B7A6A83D0E6C88BC6B2B23DC341880B44DE7D3201520D611D9F1",
+    "size_bytes": 56495803,
+    "notes": "Português — PRO Desktop 2.3.8 e Mobile 2.3.5\n\nPRO Desktop: bloqueie Google ou AWS no Region Selector, junto dos países permitidos, onde o provedor tiver servidores identificados. No PC, a escolha também acrescenta atraso aos testes dos servidores recusados. Melhoramos bloqueio por provedor, cadastro de servidores, filtro X1 e Firewall. UDP/TCP só para PSP; em X1/P2P, permanece em Padrão. Central: sem resposta ao ping comum, tenta TCP 443.\n\nUse Region Selector junto aos Testes da Konami: leia Central de Servidores → Testes da Konami → Como funciona e o que fazer. Mantenha monitor e regras ligados, inicie a extensão EFT MATCH antes do jogo e siga as instruções para renovar os testes. Resultados antigos podem continuar em uso; ping alto sozinho não garante que sua seleção foi aplicada.\n\nMobile: ping sem alternar entre valor e “--”, última medição identificada e distância recuperada após falhas de localização. Endereço com porta e UDP/TCP, cadastro de novos servidores e remoção do agente quando a licença termina, se o roteador estiver acessível.\n\nEnglish — PRO Desktop 2.3.8 and Mobile 2.3.5\n\nDesktop: block Google or AWS in Region Selector alongside allowed countries, wherever the provider's servers are identified. On PC, rejected servers also receive delay in connection tests. Improved provider blocking, new server saving, X1 filtering and Firewall layout. UDP/TCP is PSP-only and stays Default in X1/P2P. Server Center tries TCP 443 if normal ping gets no response.\n\nUse Region Selector with Konami Tests. Read Server Center → Konami Tests → How it works and what to do. Enable monitor and rules, start EFT MATCH before the game and follow the steps to refresh tests. Older results may remain in use; high ping alone does not confirm your selection took effect.\n\nMobile: stable ping display, labelled last readings and distance recovery. Addresses include port and UDP/TCP. New server saving and agent removal when the license ends, if the router is reachable.",
+    "mandatory": true
+  },
+  "signature": "pIc1KbfpCzaJAUiqUag+RIE27x9zuVQkyer2wN0YbLhgnDW7KyUap+e87vneWJRFp8ck6tzapcXIhnZLgIw/Cg==",
+  "eft_match": {
+    "product": "eft-match",
+    "platform": "windows-x64",
+    "version": "0.2.8",
+    "build_number": 11,
+    "download_url": "https://eft-match-downloads.arley-efootball-toolkit.workers.dev/v1/eft-match/EFT-MATCH.zip",
+    "package_format": "zip-onedir",
+    "sha256": "CF276CBEBA8243EDFB92E6E1DF00B2F2E51371BD7E17BAF4D80F3CA7588DBCB7",
+    "size_bytes": 13232098,
+    "notes": "Esta atualização obrigatória mostra o Smart Assist em partidas 1v1 quando disponível e o oculta em COOP/teamplay. A identificação usa a API de produção com sua chave EFT MATCH.",
+    "mandatory": true,
+    "notes_en": "This update is required. Smart Assist appears in 1v1 when available and stays hidden in COOP/teamplay. Identification uses the production API with your EFT MATCH key.",
+    "published_at": "2026-09-30T13:02:57.811946Z"
+  },
+  "eft_match_module": {
+    "product": "eft-match-module",
+    "platform": "windows-x64",
+    "abi": 3,
+    "version": "2.0.1",
+    "minimum_toolkit_version": "2.3.7",
+    "package_format": "dll",
+    "download_url": "https://eft-match-modules.arley-efootball-toolkit.workers.dev/v1/eft-match/module",
+    "download_auth": "eft-license-v1",
+    "sha256": "b1909ed6f9f5b02da142cce7655ded7e2fec18b5f90e20dcca580a47fce1d3df",
+    "size_bytes": 744960
+  }
+}
