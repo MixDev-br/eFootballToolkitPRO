@@ -3,13 +3,13 @@
   "product": "efootball-toolkit-pro",
   "channel": "stable",
   "version": "3.0.0",
-  "published_at": "2026-11-01T18:30:24.525158Z",
+  "published_at": "2026-11-01T19:00:52.574665Z",
   "download_url": "https://github.com/MixDev-br/MatchDesk/releases/download/v3.0.0/MatchDesk-Pro-v3.0.0.zip",
   "package_format": "zip-onedir",
   "sha256": "002f4b14e41e4443ba77b09f729c300814fc60dcf41d8156b3ec15728579c5ae",
   "size_bytes": 24616595,
   "notes": "Português\n\nNovidades do MatchDesk 3.0\n\n• Meu Elenco (MySquad): gols, assistências, partidas e participação em gols por partida. Alterne entre seus elencos Steam e Xbox PC.\n• Teste de controle: confira botões, analógicos, gatilhos, vibração e frequência de resposta.\n• Frequência USB: ajuste controles compatíveis por cabo, salve o perfil de cada controle e confira a taxa medida.\n• Otimização do PC: perfis prontos, ajustes explicados, relatório e restauração. Ajustes já ativos ou indisponíveis são pulados.\n• Filtro do Scout: escolha critérios de divisão, ranking, rating e força coletiva quando os dados estiverem disponíveis.\n• Visual renovado: telas reorganizadas e overlays com personalização do fundo, da transparência e das informações exibidas.\n\nEnglish\n\nWhat's new in MatchDesk 3.0\n\n• My Squad: track goals, assists, appearances and goal contributions per appearance. Switch between your Steam and Xbox PC squads.\n• Controller tester: check buttons, sticks, triggers, vibration and polling rate.\n• USB polling rate: adjust compatible wired controllers, save a profile for each controller and check the measured rate.\n• PC optimization: ready-made profiles, explained settings, results and restore options. Settings already active or unavailable are skipped.\n• Scout match filter: choose division, ranking, rating and team strength criteria when the information is available.\n• Refreshed design: reorganized screens and overlays with customizable backgrounds, transparency and visible information.",
-  "mandatory": false,
+  "mandatory": true,
   "android": {
     "version": "3.0.0",
     "build_number": 21,
@@ -18,23 +18,23 @@
     "sha256": "9354E79B5F93904EC6171D6EC9F3CB6858EBC8486AE8FA510F1C5893690FBFDF",
     "size_bytes": 57626799,
     "notes": "Português\n\nNovidades do MatchDesk Mobile 3.0\n\n• Visual renovado com a nova identidade verde.\n• Bordas do painel de ping com cores diferentes para conexões LAN, P2P e por servidor.\n• Melhorias na reconexão e na recuperação do monitor e dos filtros.\n\nEnglish\n\nWhat's new in MatchDesk Mobile 3.0\n\n• A refreshed design with the new green identity.\n• Ping panel borders use different colors for LAN, P2P and server connections.\n• Improvements to reconnection and recovery of monitoring and filters.",
-    "mandatory": false,
-    "published_at": "2026-10-31T00:34:33.687260Z"
+    "mandatory": true,
+    "published_at": "2026-11-01T19:00:52.574665Z"
   },
-  "signature": "tb0sgZLhU6vh5ijvmSooinz6dTUWyDV+DBIX8JAZnLaQ0agCam68ubykzYkzfFy5NdPdWruYq7iOzlL+1zFjBg==",
+  "signature": "54rHb+3HhprR03COVrSCTbLX/iniqz1gUPtvpQvtIGx1gccYhAEhoOH9/1TAnYWHtESVFJVtwCHVggXj00EiBQ==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
     "version": "3.0.0",
-    "build_number": 12,
+    "build_number": 13,
     "download_url": "https://eft-match-downloads.arley-efootball-toolkit.workers.dev/v1/eft-match/EFT-MATCH.zip",
     "package_format": "zip-onedir",
-    "sha256": "EFFDFCD976C6BDB4324C268754AEA9C70EC629B6D2764AB8063259C2EF63C963",
-    "size_bytes": 14612758,
+    "sha256": "5E7CDAB8596C58902DFFB02A70DDC31756F423C4CA3050809CF49AE65DCF949D",
+    "size_bytes": 14911943,
     "notes": "Novidades do MatchDesk Scout 3.0\n\n• Novo visual e overlay redesenhado para acompanhar as informações do adversário.\n• Melhor identificação das plataformas, incluindo Xbox PC.\n• Atualizações pelo próprio aplicativo, mantendo sua ativação e suas preferências.",
-    "mandatory": false,
+    "mandatory": true,
     "notes_en": "What's new in MatchDesk Scout 3.0\n\n• A refreshed design and redesigned overlay for viewing opponent information.\n• Improved platform identification, including Xbox PC.\n• Update directly from the app while keeping your activation and preferences.",
-    "published_at": "2026-10-31T00:34:33.737253Z"
+    "published_at": "2026-11-01T19:00:52.574665Z"
   },
   "eft_match_module": {
     "product": "eft-match-module",
