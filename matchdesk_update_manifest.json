@@ -2,13 +2,13 @@
   "schema": 1,
   "product": "efootball-toolkit-pro",
   "channel": "stable",
-  "version": "3.0.0",
-  "published_at": "2026-11-01T19:00:52.574665Z",
-  "download_url": "https://github.com/MixDev-br/MatchDesk/releases/download/v3.0.0/MatchDesk-Pro-v3.0.0.zip",
+  "version": "3.0.1",
+  "published_at": "2026-11-14T23:25:16Z",
+  "download_url": "https://github.com/MixDev-br/MatchDesk/releases/download/v3.0.1/MatchDesk-Pro-v3.0.1.zip",
   "package_format": "zip-onedir",
-  "sha256": "002f4b14e41e4443ba77b09f729c300814fc60dcf41d8156b3ec15728579c5ae",
-  "size_bytes": 24616595,
-  "notes": "Português\n\nNovidades do MatchDesk 3.0\n\n• Meu Elenco (MySquad): gols, assistências, partidas e participação em gols por partida. Alterne entre seus elencos Steam e Xbox PC.\n• Teste de controle: confira botões, analógicos, gatilhos, vibração e frequência de resposta.\n• Frequência USB: ajuste controles compatíveis por cabo, salve o perfil de cada controle e confira a taxa medida.\n• Otimização do PC: perfis prontos, ajustes explicados, relatório e restauração. Ajustes já ativos ou indisponíveis são pulados.\n• Filtro do Scout: escolha critérios de divisão, ranking, rating e força coletiva quando os dados estiverem disponíveis.\n• Visual renovado: telas reorganizadas e overlays com personalização do fundo, da transparência e das informações exibidas.\n\nEnglish\n\nWhat's new in MatchDesk 3.0\n\n• My Squad: track goals, assists, appearances and goal contributions per appearance. Switch between your Steam and Xbox PC squads.\n• Controller tester: check buttons, sticks, triggers, vibration and polling rate.\n• USB polling rate: adjust compatible wired controllers, save a profile for each controller and check the measured rate.\n• PC optimization: ready-made profiles, explained settings, results and restore options. Settings already active or unavailable are skipped.\n• Scout match filter: choose division, ranking, rating and team strength criteria when the information is available.\n• Refreshed design: reorganized screens and overlays with customizable backgrounds, transparency and visible information.",
+  "sha256": "C43F80ACC8BDDD719F580BC6931C5001EE59BA5207BE16E833F5788C6C4A3129",
+  "size_bytes": 27682218,
+  "notes": "• Chat during matches with opponents who also use MatchDesk Scout.\n• App performance improvements.\n• Automatic cleanup of temporary files and other files the app no longer uses.\n• Analyze your play style in the My Game tab, with stats for passing, shooting, defending, and dribbling.\n• New interface languages.\n• When you face an opponent again, see the last score and your win, draw, and loss record if previous matches are available. You can also save a private note about the opponent.\n• Pro also shows the ping and region from your last connection with that opponent, when available.\n• When you match with a marked opponent again, choose between an alert or an alert with an attempt to block the connection.",
   "mandatory": true,
   "android": {
     "version": "3.0.0",
@@ -21,31 +21,30 @@
     "mandatory": true,
     "published_at": "2026-11-01T19:00:52.574665Z"
   },
-  "signature": "54rHb+3HhprR03COVrSCTbLX/iniqz1gUPtvpQvtIGx1gccYhAEhoOH9/1TAnYWHtESVFJVtwCHVggXj00EiBQ==",
+  "signature": "rckyekSWVQPEDiN2NuNM1FHBPtJK56Lt/8AS5AmvmVuTsLAKPpyp9dLRf7KSo/YJNTr4Ck5n/dtbEOIT7Sd7CA==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
-    "version": "3.0.0",
-    "build_number": 13,
+    "version": "3.0.1",
+    "build_number": 14,
     "download_url": "https://eft-match-downloads.arley-efootball-toolkit.workers.dev/v1/eft-match/EFT-MATCH.zip",
     "package_format": "zip-onedir",
-    "sha256": "5E7CDAB8596C58902DFFB02A70DDC31756F423C4CA3050809CF49AE65DCF949D",
-    "size_bytes": 14911943,
-    "notes": "Novidades do MatchDesk Scout 3.0\n\n• Novo visual e overlay redesenhado para acompanhar as informações do adversário.\n• Melhor identificação das plataformas, incluindo Xbox PC.\n• Atualizações pelo próprio aplicativo, mantendo sua ativação e suas preferências.",
+    "sha256": "E25311C2E76CE0F3F7012A2A8227A6ADC3186A40066B3A526ECF515E959D59BD",
+    "size_bytes": 16519535,
+    "notes": "• Chat during matches with opponents who also use MatchDesk Scout.\n• App performance improvements.\n• Automatic cleanup of temporary files and other files the app no longer uses.\n• New interface languages.\n• When you face an opponent again, see the last score and your win, draw, and loss record if previous matches are available. You can also save a private note about the opponent.",
     "mandatory": true,
-    "notes_en": "What's new in MatchDesk Scout 3.0\n\n• A refreshed design and redesigned overlay for viewing opponent information.\n• Improved platform identification, including Xbox PC.\n• Update directly from the app while keeping your activation and preferences.",
-    "published_at": "2026-11-01T19:00:52.574665Z"
+    "published_at": "2026-11-14T23:25:16Z"
   },
   "eft_match_module": {
     "product": "eft-match-module",
     "platform": "windows-x64",
     "abi": 3,
     "version": "3.0.0",
-    "minimum_toolkit_version": "3.0.0",
+    "minimum_toolkit_version": "3.0.1",
     "package_format": "dll",
     "download_url": "https://eft-match-modules.arley-efootball-toolkit.workers.dev/v1/eft-match/module",
     "download_auth": "eft-license-v1",
-    "sha256": "2f89368a7977cd98361267f5d6ca8e3aed3cf4412fb1a4dbb18da62adb69abfe",
-    "size_bytes": 879104
+    "sha256": "e490df9fafa085d1ffe53cc6b6eae0be748dd5b1d32027eedb2faab4a8df3dca",
+    "size_bytes": 911568
   }
 }
