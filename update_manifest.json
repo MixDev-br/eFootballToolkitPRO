@@ -3,11 +3,11 @@
   "product": "efootball-toolkit-pro",
   "channel": "stable",
   "version": "3.0.1",
-  "published_at": "2026-11-14T23:25:16Z",
-  "download_url": "https://github.com/MixDev-br/MatchDesk/releases/download/v3.0.1/MatchDesk-Pro-v3.0.1.zip",
+  "published_at": "2026-11-14T23:45:21Z",
+  "download_url": "https://github.com/MixDev-br/MatchDesk/releases/download/v3.0.1/MatchDesk-Pro-v3.0.1-Update-Fix.zip",
   "package_format": "zip-onedir",
-  "sha256": "C43F80ACC8BDDD719F580BC6931C5001EE59BA5207BE16E833F5788C6C4A3129",
-  "size_bytes": 27682218,
+  "sha256": "99E55C3817CF719A94530CCB460DCD65467FBF0A75AE99A9986CBE261F483A24",
+  "size_bytes": 27243179,
   "notes": "• Chat during matches with opponents who also use MatchDesk Scout.\n• App performance improvements.\n• Automatic cleanup of temporary files and other files the app no longer uses.\n• Analyze your play style in the My Game tab, with stats for passing, shooting, defending, and dribbling.\n• New interface languages.\n• When you face an opponent again, see the last score and your win, draw, and loss record if previous matches are available. You can also save a private note about the opponent.\n• Pro also shows the ping and region from your last connection with that opponent, when available.\n• When you match with a marked opponent again, choose between an alert or an alert with an attempt to block the connection.",
   "mandatory": true,
   "android": {
@@ -21,7 +21,7 @@
     "mandatory": true,
     "published_at": "2026-11-01T19:00:52.574665Z"
   },
-  "signature": "rckyekSWVQPEDiN2NuNM1FHBPtJK56Lt/8AS5AmvmVuTsLAKPpyp9dLRf7KSo/YJNTr4Ck5n/dtbEOIT7Sd7CA==",
+  "signature": "W5r7GndoZujlPOZsD1q9iCNH4O4KG5GpFbFh1hPQCiaWb/QJfbpCDM7cC/JnyP4YZqjovk2FjvO8MMXtQU1AAA==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
