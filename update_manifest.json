@@ -3,8 +3,8 @@
   "product": "efootball-toolkit-pro",
   "channel": "stable",
   "version": "3.0.1",
-  "published_at": "2026-11-14T23:45:21Z",
-  "download_url": "https://github.com/MixDev-br/MatchDesk/releases/download/v3.0.1/MatchDesk-Pro-v3.0.1-Update-Fix.zip",
+  "published_at": "2026-11-17T12:02:37Z",
+  "download_url": "https://matchdesk-updates.matchdesk-clientes.workers.dev/v1/updates/MatchDesk-Pro-v3.0.1-Update-Fix.zip",
   "package_format": "zip-onedir",
   "sha256": "99E55C3817CF719A94530CCB460DCD65467FBF0A75AE99A9986CBE261F483A24",
   "size_bytes": 27243179,
@@ -13,15 +13,15 @@
   "android": {
     "version": "3.0.0",
     "build_number": 21,
-    "download_url": "https://github.com/MixDev-br/MatchDesk/releases/download/v3.0.0/MatchDesk-Mobile-v3.0.0.apk",
+    "download_url": "https://matchdesk-updates.matchdesk-clientes.workers.dev/v1/updates/MatchDesk-Mobile-v3.0.0.apk",
     "package_format": "apk",
     "sha256": "9354E79B5F93904EC6171D6EC9F3CB6858EBC8486AE8FA510F1C5893690FBFDF",
     "size_bytes": 57626799,
     "notes": "Português\n\nNovidades do MatchDesk Mobile 3.0\n\n• Visual renovado com a nova identidade verde.\n• Bordas do painel de ping com cores diferentes para conexões LAN, P2P e por servidor.\n• Melhorias na reconexão e na recuperação do monitor e dos filtros.\n\nEnglish\n\nWhat's new in MatchDesk Mobile 3.0\n\n• A refreshed design with the new green identity.\n• Ping panel borders use different colors for LAN, P2P and server connections.\n• Improvements to reconnection and recovery of monitoring and filters.",
     "mandatory": true,
-    "published_at": "2026-11-01T19:00:52.574665Z"
+    "published_at": "2026-11-17T12:02:37Z"
   },
-  "signature": "W5r7GndoZujlPOZsD1q9iCNH4O4KG5GpFbFh1hPQCiaWb/QJfbpCDM7cC/JnyP4YZqjovk2FjvO8MMXtQU1AAA==",
+  "signature": "Mik8SDCsye+/Pn8m06unqX0ytnfSbn8ykV4HyJ5HE9KhPdPVpR2rnYMxJZIdoz0uoDoymPIedp3xQMUFLyzeBQ==",
   "eft_match": {
     "product": "eft-match",
     "platform": "windows-x64",
